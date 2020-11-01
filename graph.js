@@ -1,7 +1,7 @@
 //make <svg></svg> tag in your html file
 
 //data load
-d3.json("new.json")
+d3.json("data.json")
   .then((json) => {
     data = json;
     update();
@@ -35,16 +35,17 @@ drag = simulation => {
 }
 
 scale = size => {
-    if(size == null) return 10;
-    const newsize = size / 1000;
+    if(size == null) return 30;
+    const newsize = size/10;
     if(newsize > 20)
       return newsize/3;
     else return newsize;
 }
 
-color = c => {
-    var num = d3.format(".0f")(c/100) % 10;
-    return d3.schemeTableau10[num];
+color = comm => {
+    if(comm == null) return "#abcdef"
+    var num = comm % 12;
+    return d3.schemeSet3[num];
 }
 
 
@@ -61,8 +62,8 @@ function update(){
     var nodes = root.descendants();
   
     var simulation = d3.forceSimulation(nodes)
-        .force("link", d3.forceLink(links).id(d => d.id).distance(10).strength(0.7))
-        .force("charge", d3.forceManyBody().strength(-160))
+        .force("link", d3.forceLink(links).id(d => d.id).distance(15).strength(0.7))
+        .force("charge", d3.forceManyBody().strength(-200))
         .force("x", d3.forceX())
         .force("y", d3.forceY());
   
@@ -90,13 +91,13 @@ function update(){
     
     var circle = node.append("circle")
       .join("circle")
-      .attr("fill", d=>color(d.data.size))
+      .attr("fill", d=>color(d.data.comm))
       .attr("stroke", "#fff")
       .attr("r", d => scale(d.data.size));
     
     var name = node.append("text")
         .text(d=>d.data.name)
-        .style("font-size", "0.85em")
+        .style("font-size", "1em")
         .style("color", "#2c2c2c");
     
     simulation.on("tick", () => {
