@@ -33,11 +33,55 @@ function mouseout(event, d){
     .attr("fill", "#f1f1ef");
 }
 
-function click(event, d){
-  d3.select(this).select("text")
-    .attr("fill", "#2c2c2c");
-  d3.select(this).on("mouseout", null);
-  d3.select(this).on("mouseover", null);
+function click(event, d){ //toggle 가능?
+  var node = d3.select(this);
+
+  var isClicked = node.attr("click");
+  if(isClicked == "true"){
+    node.attr("click", "false");
+    node.select("text")
+      .attr("fill", "#f1f1ef");
+    node.on("mouseout", mouseout);
+    node.on("mouseover", mouseover);
+
+    node.select("circle").attr("stroke", "#fff");
+  }
+  else{
+    node.attr("click", "true");
+
+    node.select("text")
+      .attr("fill", "#2c2c2c");
+    node.on("mouseout", null);
+    node.on("mouseover", null);
+
+    node.select("circle").attr("stroke", "#2c2c2c");
+    
+    /*
+    var modal = node.append("div")
+              .attr("id", "myModal")
+              .attr("class", "modal")
+              .append("div")
+              .attr("class", "modal-content");
+    
+    modal.append("span").attr("class", "close").text("close");
+    modal.append("p").text(d.data.name);
+
+    
+    makemodal();
+    */
+  }
+}
+
+function makemodal(){
+  var modal = document.getElementById("myModal");
+  var span = document.getElementsByClassName("close")[0];
+
+  // close button
+  span.addEventListener('click', function() {
+    modal.style.display = "none";
+  });
+
+  modal.style.display = "block";
 }
 
 scale = size => {

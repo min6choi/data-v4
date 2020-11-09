@@ -43,6 +43,7 @@ function update(){
         .data(nodes)
         .enter().append("g")
         .attr("class", "node")
+        .attr("click", false)
         .call(drag(simulation))
         .on('mouseover', mouseover)
         .on('mouseout', mouseout)
