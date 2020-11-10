@@ -56,30 +56,29 @@ function click(event, d){ //toggle 가능?
 
     node.select("circle").attr("stroke", "#2c2c2c");
     
-    /*
-    var modal = node.append("div")
-              .attr("id", "myModal")
-              .attr("class", "modal")
-              .append("div")
-              .attr("class", "modal-content");
+    var para = document.getElementById("modal-text");
+    para.append(d.data.name);
+    showmodal();
     
-    modal.append("span").attr("class", "close").text("close");
-    modal.append("p").text(d.data.name);
-
-    
-    makemodal();
-    */
   }
 }
 
-function makemodal(){
+function showmodal(){
   var modal = document.getElementById("myModal");
   var span = document.getElementsByClassName("close")[0];
-
+  console.log(modal);
   // close button
   span.addEventListener('click', function() {
     modal.style.display = "none";
+    document.getElementById("modal-text").innerText = '';
   });
+
+  window.onclick = function(event) {
+    if (event.target == modal) {
+      modal.style.display = "none";
+      document.getElementById("modal-text").innerText = '';
+    }
+  }
 
   modal.style.display = "block";
 }
