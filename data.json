@@ -1,0 +1,568 @@
+{
+    "name": "The Ethics of Information",
+    "children": [
+        {
+            "name": "agents",
+            "size": "475",
+            "comm": "2",
+            "children": [
+                {
+                    "name": "actions",
+                    "size": "268",
+                    "comm": "0",
+                    "children": [
+                        {
+                            "name": "state",
+                            "size": "108",
+                            "comm": "0",
+                            "children": [
+                                {
+                                    "name": "understood",
+                                    "size": "107",
+                                    "comm": "0"
+                                },
+                                {
+                                    "name": "global",
+                                    "size": "107",
+                                    "comm": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "action",
+                            "size": "259",
+                            "comm": "0",
+                            "children": [
+                                {
+                                    "name": "way",
+                                    "size": "187",
+                                    "comm": "0"
+                                },
+                                {
+                                    "name": "oriented",
+                                    "size": "124",
+                                    "comm": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "interpretation",
+                            "size": "110",
+                            "comm": "0",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "chapter",
+                    "size": "256",
+                    "comm": "0",
+                    "children": [
+                        {
+                            "name": "like",
+                            "size": "255",
+                            "comm": "0"
+                        },
+                        {
+                            "name": "artificial",
+                            "size": "175",
+                            "comm": "0"
+                        },
+                        {
+                            "name": "problems",
+                            "size": "171",
+                            "comm": "0"
+                        },
+                        {
+                            "name": "respect",
+                            "size": "171",
+                            "comm": "0"
+                        },
+                        {
+                            "name": "point",
+                            "size": "115",
+                            "comm": "0"
+                        }
+                    ]
+                },
+                {
+                    "name": "shall",
+                    "size": "195",
+                    "comm": "0",
+                    "children": [
+                        {
+                            "name": "analysis",
+                            "size": "176",
+                            "comm": "0"
+                        },
+                        {
+                            "name": "macroethics",
+                            "size": "109",
+                            "comm": "0"
+                        }
+                    ]
+                },
+                {
+                    "name": "business",
+                    "size": "197",
+                    "comm": "0",
+                    "children": [
+                        {
+                            "name": "right",
+                            "size": "190",
+                            "comm": "0"
+                        },
+                        {
+                            "name": "terms",
+                            "size": "178",
+                            "comm": "0"
+                        }
+                    ]
+                },
+                {
+                    "name": "environment",
+                    "size": "192",
+                    "comm": "2",
+                    "children": [
+                        {
+                            "name": "personal",
+                            "size": "158",
+                            "comm": "2"
+                        },
+                        {
+                            "name": "based",
+                            "size": "157",
+                            "comm": "2"
+                        },
+                        {
+                            "name": "presence",
+                            "size": "156",
+                            "comm": "2"
+                        },
+                        {
+                            "name": "individual",
+                            "size": "147",
+                            "comm": "2"
+                        },
+                        {
+                            "name": "theory",
+                            "size": "141",
+                            "comm": "2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "world",
+            "size": "218",
+            "comm": "1",
+            "children": [
+                {
+                    "name": "understanding",
+                    "size": "113",
+                    "comm": "2",
+                    "children": [
+                        {
+                            "name": "provide",
+                            "size": "111",
+                            "comm": "2"
+                        }
+                    ]
+                },
+                {
+                    "name": "view",
+                    "size": "145",
+                    "comm": "1",
+                    "children": [
+                        {
+                            "name": "order",
+                            "size": "143",
+                            "comm": "1"
+                        },
+                        {
+                            "name": "issues",
+                            "size": "142",
+                            "comm": "1"
+                        },
+                        {
+                            "name": "public",
+                            "size": "105",
+                            "comm": "1"
+                        },
+                        {
+                            "name": "previous",
+                            "size": "100",
+                            "comm": "1"
+                        }
+                    ]
+                },
+                {
+                    "name": "problem",
+                    "size": "203",
+                    "comm": "2",
+                    "children": [
+                        {
+                            "name": "different",
+                            "size": "147",
+                            "comm": "2"
+                        },
+                        {
+                            "name": "space",
+                            "size": "117",
+                            "comm": "2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "morally",
+            "size": "321",
+            "comm": "1",
+            "children": [
+                {
+                    "name": "data",
+                    "size": "166",
+                    "comm": "1",
+                    "children": [
+                        {
+                            "name": "source",
+                            "size": "103",
+                            "comm": "1"
+                        },
+                        {
+                            "name": "fact",
+                            "size": "101",
+                            "comm": "1"
+                        },
+                        {
+                            "name": "responsible",
+                            "size": "100",
+                            "comm": "1"
+                        }
+                    ]
+                },
+                {
+                    "name": "value",
+                    "size": "300",
+                    "comm": "1",
+                    "children": [
+                        {
+                            "name": "evil",
+                            "size": "288",
+                            "comm": "1"
+                        },
+                        {
+                            "name": "entities",
+                            "size": "206",
+                            "comm": "1"
+                        },
+                        {
+                            "name": "better",
+                            "size": "122",
+                            "comm": "1"
+                        }
+                    ]
+                },
+                {
+                    "name": "self",
+                    "size": "236",
+                    "comm": "1",
+                    "children": [
+                        {
+                            "name": "icts",
+                            "size": "232",
+                            "comm": "1"
+                        },
+                        {
+                            "name": "ontological",
+                            "size": "165",
+                            "comm": "1"
+                        },
+                        {
+                            "name": "software",
+                            "size": "102",
+                            "comm": "1"
+                        }
+                    ]
+                },
+                {
+                    "name": "model",
+                    "size": "184",
+                    "comm": "2",
+                    "children": [
+                        {
+                            "name": "specific",
+                            "size": "146",
+                            "comm": "2"
+                        },
+                        {
+                            "name": "conceptual",
+                            "size": "117",
+                            "comm": "2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "alice",
+            "size": "151",
+            "comm": "3",
+            "children": [
+                {
+                    "name": "question",
+                    "size": "147",
+                    "comm": "3"
+                },
+                {
+                    "name": "objection",
+                    "size": "105",
+                    "comm": "3"
+                },
+                {
+                    "name": "morality",
+                    "size": "99",
+                    "comm": "3"
+                },
+                {
+                    "name": "abstraction",
+                    "size": "98",
+                    "comm": "3"
+                },
+                {
+                    "name": "needs",
+                    "size": "97",
+                    "comm": "3"
+                },
+                {
+                    "name": "person",
+                    "size": "97",
+                    "comm": "3"
+                }
+            ]
+        },
+        {
+            "name": "information",
+            "size": "964",
+            "comm": "4",
+            "children": [
+                {
+                    "name": "human",
+                    "size": "346",
+                    "comm": "4",
+                    "children": [
+                        {
+                            "name": "infosphere",
+                            "size": "331",
+                            "comm": "4"
+                        },
+                        {
+                            "name": "nature",
+                            "size": "328",
+                            "comm": "4"
+                        }
+                    ]
+                },
+                {
+                    "name": "time",
+                    "size": "171",
+                    "comm": "4",
+                    "children": [
+                        {
+                            "name": "life",
+                            "size": "170",
+                            "comm": "4"
+                        }
+                    ]
+                },
+                {
+                    "name": "case",
+                    "size": "160",
+                    "comm": "4",
+                    "children": [
+                        {
+                            "name": "perspective",
+                            "size": "122",
+                            "comm": "4"
+                        },
+                        {
+                            "name": "behaviour",
+                            "size": "121",
+                            "comm": "4"
+                        }
+                    ]
+                },
+                {
+                    "name": "loa",
+                    "size": "237",
+                    "comm": "4",
+                    "children": [
+                        {
+                            "name": "sense",
+                            "size": "229",
+                            "comm": "4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "approach",
+            "size": "279",
+            "comm": "9",
+            "children": [
+                {
+                    "name": "example",
+                    "size": "278",
+                    "comm": "9"
+                },
+                {
+                    "name": "non",
+                    "size": "183",
+                    "comm": "9"
+                },
+                {
+                    "name": "entity",
+                    "size": "180",
+                    "comm": "9"
+                },
+                {
+                    "name": "possible",
+                    "size": "163",
+                    "comm": "0"
+                },
+                {
+                    "name": "concept",
+                    "size": "131",
+                    "comm": "9"
+                },
+                {
+                    "name": "means",
+                    "size": "131",
+                    "comm": "9"
+                }
+            ]
+        },
+        {
+            "name": "process",
+            "size": "141",
+            "comm": "5",
+            "children": [
+                {
+                    "name": "society",
+                    "size": "140",
+                    "comm": "1",
+                    "children": [
+                        {
+                            "name": "patient",
+                            "size": "139",
+                            "comm": "1"
+                        },
+                        {
+                            "name": "social",
+                            "size": "122",
+                            "comm": "1"
+                        }
+                    ]
+                },
+                {
+                    "name": "people",
+                    "size": "133",
+                    "comm": "5",
+                    "children": [
+                        {
+                            "name": "including",
+                            "size": "97",
+                            "comm": "5"
+                        }
+                    ]
+                },
+                {
+                    "name": "intrinsic",
+                    "size": "136",
+                    "comm": "5",
+                    "children": [
+                        {
+                            "name": "need",
+                            "size": "135",
+                            "comm": "5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "moral",
+            "size": "874",
+            "comm": "6",
+            "children": [
+                {
+                    "name": "ethics",
+                    "size": "699",
+                    "comm": "6"
+                },
+                {
+                    "name": "informational",
+                    "size": "595",
+                    "comm": "6"
+                },
+                {
+                    "name": "new",
+                    "size": "296",
+                    "comm": "6"
+                },
+                {
+                    "name": "digital",
+                    "size": "154",
+                    "comm": "6"
+                },
+                {
+                    "name": "able",
+                    "size": "104",
+                    "comm": "6"
+                },
+                {
+                    "name": "form",
+                    "size": "103",
+                    "comm": "6"
+                }
+            ]
+        },
+        {
+            "name": "privacy",
+            "size": "388",
+            "comm": "7",
+            "children": [
+                {
+                    "name": "good",
+                    "size": "358",
+                    "comm": "7"
+                }
+            ]
+        },
+        {
+            "name": "ethical",
+            "size": "447",
+            "comm": "8",
+            "children": [
+                {
+                    "name": "agent",
+                    "size": "446",
+                    "comm": "8"
+                },
+                {
+                    "name": "make",
+                    "size": "130",
+                    "comm": "8"
+                },
+                {
+                    "name": "level",
+                    "size": "128",
+                    "comm": "8"
+                }
+            ]
+        }
+    ]
+}

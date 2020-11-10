@@ -18,23 +18,21 @@ label.title {
  color: #130515;
 }
 
-
+/* graph.js 에서 설정
 .links line {
   stroke: #999;
   stroke-opacity: 0.4;
 }
 
 
-	.nodes circle {
+.nodes circle {
   stroke: #e3e3e5;
   stroke-width: 1px;
 }
-
-	text{  
-    font-family: 'DM Mono', monospace;
+*/
+text{  
+  font-family: 'DM Mono', monospace;
   text-anchor:middle;
-  font-size:11px;  
-  color: #130515;
 }
 
 .subtitle {
@@ -64,3 +62,64 @@ label.title {
   
 
 
+/* MODAL */
+/* The Modal (background) */
+.background {
+  display: none; /* Hidden by default */ /* 실제 적용은 none, 테스트 block*/
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content Box */
+.modal-content {
+  /* background-color: #fefefe; */
+  margin: 15% auto; /* 15% from the top and centered */
+  padding: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+  width: 350px;
+  border-radius: 10px;
+}
+
+/* The Close Button */
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* Modal Header */
+.modal-header {
+  padding: 2px 16px;
+  border-bottom: 1px solid #262626;
+}
+
+.modal-header > p{
+  margin: 15px 0px;
+  font-size: 24px;
+  font-family: 'Alike Angular', serif;
+}
+
+/* Modal Body */
+.modal-body {
+  padding: 16px;
+  font-family: 'Times';
+  font-size: 17px;
+  color: #2c2c2c;
+  text-align: justify;
+  text-justify: inter-word;
+}
