@@ -56,8 +56,8 @@ function click(event, d){ //toggle 가능?
 
     node.select("circle").attr("stroke", "#2c2c2c");
     
-    var para = document.getElementById("modal-text");
-    para.append(d.data.name);
+    document.getElementById("header-text").append(d.data.name);
+    document.getElementById("body-text").append(d.data.name);
     showmodal();
     
   }
@@ -66,17 +66,18 @@ function click(event, d){ //toggle 가능?
 function showmodal(){
   var modal = document.getElementById("myModal");
   var span = document.getElementsByClassName("close")[0];
-  console.log(modal);
   // close button
   span.addEventListener('click', function() {
     modal.style.display = "none";
-    document.getElementById("modal-text").innerText = '';
+    document.getElementById("header-text").innerText = '';
+    document.getElementById("body-text").innerText = '';
   });
 
   window.onclick = function(event) {
     if (event.target == modal) {
       modal.style.display = "none";
-      document.getElementById("modal-text").innerText = '';
+      document.getElementById("header-text").innerText = '';
+      document.getElementById("body-text").innerText = '';
     }
   }
 
