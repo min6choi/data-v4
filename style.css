@@ -65,7 +65,7 @@ text{
 /* MODAL */
 /* The Modal (background) */
 .background {
-  display: none; /* Hidden by default */
+  display: none; /* Hidden by default */ /* 실제 적용은 none, 테스트 block*/
   position: fixed; /* Stay in place */
   z-index: 1; /* Sit on top */
   left: 0;

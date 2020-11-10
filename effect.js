@@ -92,8 +92,8 @@ scale = size => {
     else return newsize;
 }
 
-color = comm => {
-    if(comm == null) return "#abcdef"
-    var num = comm % 12;
-    return d3.schemeSet3[num];
+color = comm => { /* 종류가 10가지 */
+    if(comm == null) return "#abcdef" /* 제목 노드*/
+    // var num = comm % 12;
+    return d3.schemeSet3[comm];
 }
