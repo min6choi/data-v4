@@ -57,7 +57,7 @@ function click(event, d){ //toggle 가능?
     node.select("circle").attr("stroke", "#2c2c2c");
     
     document.getElementById("header-text").append(d.data.name);
-    document.getElementById("body-text").append(d.data.name);
+    document.getElementById("body-text").append(d.data.para);
     showmodal();
     
   }
@@ -86,10 +86,9 @@ function showmodal(){
 
 scale = size => {
     if(size == null) return 30;
-    const newsize = size/10;
-    if(newsize > 20)
-      return newsize/3;
-    else return newsize;
+    if(size < 100) return 10;
+    else if(size < 300) return size / 10;
+    else return 30;
 }
 
 color = comm => { /* 종류가 10가지 */
