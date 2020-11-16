@@ -9,8 +9,8 @@ d3.json("data.json")
   .catch(e => {console.log(e);}); 
 
 // draw graph
-var height = 700;
-var width = 800;
+var height = 900;
+var width = 1000;
 var data;
 
 function update(){
@@ -19,7 +19,7 @@ function update(){
     var nodes = root.descendants();
   
     var simulation = d3.forceSimulation(nodes)
-        .force("link", d3.forceLink(links).id(d => d.id).distance(15).strength(0.7))
+        .force("link", d3.forceLink(links).id(d => d.id).distance(30).strength(0.5))
         .force("charge", d3.forceManyBody().strength(-200))
         .force("x", d3.forceX())
         .force("y", d3.forceY());
