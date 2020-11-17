@@ -9,8 +9,8 @@ d3.json("data.json")
   .catch(e => {console.log(e);}); 
 
 // draw graph
-var height = 900;
-var width = 1000;
+var height = 800;
+var width = 1420;
 var data;
 
 function update(){
@@ -58,7 +58,7 @@ function update(){
     var name = node.append("text")
         .text(d=>d.data.name)
         .style("font-size", "1em")
-        .attr("fill", "#f1f1ef");
+        .attr("fill", "#3b3f3e");
     
     simulation.on("tick", () => {
       link

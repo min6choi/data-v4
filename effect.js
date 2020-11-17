@@ -25,12 +25,12 @@ drag = simulation => {
 
 function mouseover(event, d){
   d3.select(this).select("text")
-  .attr("fill", "#2c2c2c");
+  .attr("fill", "#f1f1ef");
 }
 
 function mouseout(event, d){
   d3.select(this).select("text")
-    .attr("fill", "#f1f1ef");
+    .attr("fill", "#3b3f3e");
 }
 
 function click(event, d){ //toggle 가능?
