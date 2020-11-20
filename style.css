@@ -42,7 +42,8 @@ label.title {
 .subtitle {
   display: flex;
   justify-content: left;
-  padding-bottom: 10px;
+  padding-top: 5px;
+  padding-bottom: 20px;
   font-size: 17px;
   font-family: 'Alike Angular', serif;
   color: #262626;
@@ -55,6 +56,8 @@ label.title {
   font-family: 'Alike Angular', serif;
   color: #262626;
   letter-spacing: 0.1em;
+  line-height: 28px;
+  padding-bottom: 10px;
 }
 
 .subcontent {
