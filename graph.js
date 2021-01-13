@@ -10,7 +10,7 @@ d3.json("data.json")
 
 // draw graph
 var height = 700;
-var width = 1440;
+var width = 1420;
 var data;
 
 function update(){

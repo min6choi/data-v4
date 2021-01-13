@@ -12,7 +12,7 @@ label.title {
  font-size: 25px;
  font-weight: bold;
  padding-top: 15px;
- font-family: 'Cormorant SC', serif;
+ font-family: 'Alike Angular', serif;
  letter-spacing: 0.2em;
  color: #130515;
 }
@@ -32,41 +32,25 @@ label.title {
 
 
 
-.content{  
-  font-family: 'DM Mono', monospace;
-  text-anchor:middle;
-  padding-left: 340px;
-  padding-right: 350px;
-}
-
-.subtitle {
+.eng-content{  
   display: flex;
-  justify-content: left;
-  padding-top: 5px;
-  padding-bottom: 20px;
-  font-size: 17px;
-  letter-spacing: 0.1em;
-  font-family: 'Alike Angular', serif;
-  color: #262626;
-
-}
-
-.maincontent {
-  font-size: 15px;
-  padding-left: 6px;
-  font-family: 'Alike Angular', serif;
-  color: #262626;
-  letter-spacing: 0.1em;
-  line-height: 28px;
-  padding-bottom: 10px;
-}
-
-.subcontent {
-  font-size: 13px;
+  flex: auto;
+  margin : 0 auto;
   padding-top: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+  justify-content: space-around;
   font-family: 'Alike Angular', serif;
   color: #262626;
+  letter-spacing: 0.03em;
+  line-height: 28px;
 }
+
+.eng-main {
+  font-size: 13px;
+}
+
   
 
 
