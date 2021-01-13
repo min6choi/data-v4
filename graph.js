@@ -9,7 +9,7 @@ d3.json("data.json")
   .catch(e => {console.log(e);}); 
 
 // draw graph
-var height = 700;
+var height = 675;
 var width = 1420;
 var data;
 

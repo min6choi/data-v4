@@ -3,7 +3,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@500&display=swap');
 
 *{
-  background-color: #f1f1ef;
+  background-color: #e8e3d7;
+}
+
+.scroll-down-arrow{
+  display: flex;
+  justify-content: center;
+  font-size: 20px;
+  color: #8c3939;
+  font-weight: 700;
 }
 
 label.title {
@@ -12,9 +20,10 @@ label.title {
  font-size: 25px;
  font-weight: bold;
  padding-top: 15px;
+ padding-bottom: 10px;
  font-family: 'Alike Angular', serif;
  letter-spacing: 0.2em;
- color: #130515;
+ color: #130102;
 }
 
 /* graph.js 에서 설정
@@ -42,7 +51,7 @@ label.title {
   padding-bottom: 10px;
   justify-content: center;
   font-family: 'Alike Angular', serif;
-  color: #262626;
+  color: #8c3939;
   letter-spacing: 0.03em;
   line-height: 28px;
 }
