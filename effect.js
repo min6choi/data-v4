@@ -33,7 +33,7 @@ function mouseout(event, d){
     .attr("fill", "#3b3f3e");
 }
 
-function click(event, d){ //toggle 가능?
+function click(event, d){ 
   var node = d3.select(this);
 
   var isClicked = node.attr("click");
@@ -86,9 +86,9 @@ function showmodal(){
 
 scale = size => {
     if(size == null) return 30;
-    if(size < 100) return 10;
-    else if(size < 300) return size / 10;
-    else return 30;
+    if (size <300) return size/9;
+    else if (size < 600) return size /19;
+    else return size / 27;
 }
 
 color = comm => { /* 종류가 10가지 */
