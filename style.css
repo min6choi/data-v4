@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Mono&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=IM+Fell+DW+Pica&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
 
 *{
   background-color: #FDF7E0;
@@ -66,11 +67,11 @@ label.title {
   margin-left: 310px;
   margin-right: 300px;
   padding-bottom: 10px;
-  font-size: 15px;
-  font-family: 'Alike Angular', serif;
+  font-size: 13px;
+  font-family: 'Roboto Mono', monospace;
   color: #262626;
-  letter-spacing: 0.03em;
-  line-height: 25px;
+  letter-spacing: 0.01em;
+  line-height: 21px;
 }
 
 .eng-2{  
@@ -89,11 +90,11 @@ label.title {
   margin-left: 310px;
   margin-right: 300px;
   padding-bottom: 10px;
-  font-size: 15px;
-  font-family: 'Alike Angular', serif;
+  font-size: 13px;
+  font-family: 'Roboto Mono', monospace;
   color: #262626;
-  letter-spacing: 0.03em;
-  line-height: 25px;
+  letter-spacing: 0.01em;
+  line-height: 21px;
 }
 
 .eng-3{  
@@ -112,11 +113,11 @@ label.title {
   margin-left: 310px;
   margin-right: 300px;
   padding-bottom: 10px;
-  font-size: 15px;
-  font-family: 'Alike Angular', serif;
+  font-size: 13px;
+  font-family: 'Roboto Mono', monospace;
   color: #262626;
-  letter-spacing: 0.03em;
-  line-height: 25px;
+  letter-spacing: 0.01em;
+  line-height: 21px;
 }
 
 .eng-4{  
@@ -135,11 +136,11 @@ label.title {
   margin-left: 310px;
   margin-right: 300px;
   padding-bottom: 10px;
-  font-size: 15px;
-  font-family: 'Alike Angular', serif;
+  font-size: 13px;
+  font-family: 'Roboto Mono', monospace;
   color: #262626;
-  letter-spacing: 0.03em;
-  line-height: 25px;
+  letter-spacing: 0.01em;
+  line-height: 21px;
 }
 
 
