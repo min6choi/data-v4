@@ -19,8 +19,8 @@ function update(){
     var nodes = root.descendants();
   
     var simulation = d3.forceSimulation(nodes)
-        .force("link", d3.forceLink(links).id(d => d.id).distance(32.5).strength(1))
-        .force("charge", d3.forceManyBody().strength(-240))
+        .force("link", d3.forceLink(links).id(d => d.id).distance(32).strength(0.9))
+        .force("charge", d3.forceManyBody().strength(-230))
         .force("x", d3.forceX())
         .force("y", d3.forceY());
   
