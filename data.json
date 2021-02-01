@@ -1,464 +1,280 @@
 {
     "name": "The Ethics of Information",
-    "para": "내용채우기",
+    "para": "Luciano Floridi, University of Oxford",
     "children": [
         {
-            "name": "problems",
-            "size": "170",
-            "comm": "4",
-            "para": " Examples come readily to mind, from privacy and freedom of expression to Wikileaks, from the digital divide to a dystopian \u2018surveillance society\u2019, from artificial companions to drones and cyberwar. Indeed, the ethical problems raised by ICTs are ubiquitous in our society and in contemporary culture, and often lie behind debates in medical ethics, environmental ethics, neuroethics, and bioethics. As I shall argue in this book, they actually invite us to reconsider some fundamental tenets in our moral theories.",
+            "name": "morally",
+            "size": "326",
+            "comm": "2",
+            "para": " From (1) and (2) it follows that:\n(3)\twe are witnessing a steady increase in agents\u2019 responsibilities. As I shall argue in Chapter 8, ICTs are making humanity increasingly responsible, morally speaking, for the way the world is, will and should be. This is a bit paradoxical since,\nas we shall see in Chapter 13, ICTs are also part of a wider phenomenon that is making the clear attribution of responsibility to specific individual agents more difficult and ambiguous.",
             "children": [
                 {
-                    "name": "make",
-                    "size": "131",
-                    "comm": "4",
-                    "para": "\nThe ethical issues brought about by ICTs constitute a complicated and potentially confusing scenario, not least because it is in constant and rapid evolution. A simple analogy may help to make sense of the current situation. Our technological tree has been growing its far-reaching branches much more widely, rapidly, and chaotically than its conceptual, ethical, and cultural roots.",
+                    "name": "approach",
+                    "size": "272",
+                    "comm": "2",
+                    "para": " It is, however, unfortunate, for it has generated some confusion about the specific nature, scope, and goals of IE. Fortunately, the problem is not irremediable, for a unified approach can help to explain and relate the main senses in which IE has been discussed in the literature. This approach will be introduced in Section 2."
+                },
+                {
+                    "name": "actions",
+                    "size": "271",
+                    "comm": "2",
+                    "para": "). In other words, the Internet highlighted how IE could also be understood in a second, but closely related sense, in which information plays an important role as a product of Alice\u2019s moral evaluations and actions (Cavalier, 2005). To understand this transformation, let us consider the RPT model again."
+                },
+                {
+                    "name": "specific",
+                    "size": "148",
+                    "comm": "2",
+                    "para": " As I shall argue in Chapter 8, ICTs are making humanity increasingly responsible, morally speaking, for the way the world is, will and should be. This is a bit paradoxical since,\nas we shall see in Chapter 13, ICTs are also part of a wider phenomenon that is making the clear attribution of responsibility to specific individual agents more difficult and ambiguous.\n1."
+                },
+                {
+                    "name": "presence",
+                    "size": "145",
+                    "comm": "2",
+                    "para": " Being informed is not always a blessing and might even be morally dangerous or wrong, distracting or crippling.\nWhether the (quantitative and qualitative) presence or the (total) absence of information-as-a-resource is in question, it is obvious that there is a perfectly reasonable sense in which information ethics may be described as the study of the moral issues arising from \u2018the triple A\u2019: availability, accessibility, and accuracy of informational resources, independendy of their format, type, and physical support. Rawls\u2019 position has been already mentioned."
+                },
+                {
+                    "name": "level",
+                    "size": "126",
+                    "comm": "2",
+                    "para": " Thus, in the revised RPT model, the agent is embodied and embedded, as an information agent, in an equally informational environment.\nThe revision of our perspective, just introduced, requires what in Chapter 3 will be defined as a change in our level of abstraction. Here, the point may be illustrated with a simple analogy."
+                },
+                {
+                    "name": "better",
+                    "size": "125",
+                    "comm": "2",
+                    "para": " Applying the previous analogy, while technology keeps growing bottom-up, it is high time we start digging deeper, top-down, in order to expand and reinforce our conceptual understanding of the foundations of our information ethics and of the moral implications and impact of ICTs. A better philosophical grasp will be essential, if we wish to have a better chance of anticipating difficulties, identifying opportunities, and resolving moral conflicts and dilemmas (I shall return to this analogy in the conclusion of Chapter 16).\nThe task of this book is to contribute to such conceptual foundations of IE as a new area of philosophical research."
+                }
+            ]
+        },
+        {
+            "name": "action",
+            "size": "255",
+            "comm": "3",
+            "para": "2\nSome of the classic issues in philosophy could easily be re-conceptualized as problems concerning (tele)presence.3 Examples include action at distance; the semantics of possible worlds understood as the availability and accessibility of spaces different from the actual; the tension between appearance and reality (where is the agent, really.) and the issuing sceptical challenges (is the agent\u2019s brain inside or outside a vat on Alpha Centauri.",
+            "children": [
+                {
+                    "name": "like",
+                    "size": "251",
+                    "comm": "3",
+                    "para": " The lack of balance is obvious and a matter of daily experience in the life of millions of people.2 The risk is that, like a tree with weak roots, further and healthier growth at the top will be impaired by a fragile foundation at the bottom. As a consequence, today, any information society faces the pressing task of equipping itself with a shareable and sustainable information ethics."
+                },
+                {
+                    "name": "loa",
+                    "size": "235",
+                    "comm": "3",
+                    "para": " This perspective has been called a level of abstraction or simply LoA. The analysis of what a LoA is and how the method of LoAs works is the task of the next chapter. Once the methodological analysis is complete, I shall return to the investigation of IE as a macroethics."
+                }
+            ]
+        },
+        {
+            "name": "moral",
+            "size": "871",
+            "comm": "6",
+            "para": " 26: Ethics of Information and Communication Technologies (2012) and the UNESCO Observatory on the Information Society, Information for All Programme (IFAP) Information Society Observatory .\nwidespread influence on our moral lives and on contemporary ethical debates. Examples come readily to mind, from privacy and freedom of expression to Wikileaks, from the digital divide to a dystopian \u2018surveillance society\u2019, from artificial companions to drones and cyberwar.",
+            "children": [
+                {
+                    "name": "human",
+                    "size": "346",
+                    "comm": "6",
+                    "para": " But it is also a more impoverished concept, in terms of which the others can be expressed, interrelated, and investigated philosophically.\nAs the reader will see in Chapter 2, I interpret information ethics (IE) as the branch of the philosophy of information that investigates, in a broad sense, the ethical impact of Information and Communication Technologies (ICTs) on human life and society. ICTs have profoundly affected many aspects of the human condition, including the nature of communication, education, work, entertainment, industrial production and business, health care, social relations, and armed conflicts.",
                     "children": [
                         {
-                            "name": "level",
-                            "size": "126",
-                            "comm": "4",
-                            "para": "1\tIntroduction: on the very idea of levels of abstraction\t30\n3.2\tThe definition of a level of abstraction\t31\n3.3\tAbstraction and ontological commitment\t34\n3."
+                            "name": "good",
+                            "size": "340",
+                            "comm": "6",
+                            "para": " It is based on two simple ideas. Information is something as fundamental and significant as knowledge, being, validity, truth, meaning, mind, or good and evil, and so equally worthy of autonomous, philosophical investigation. But it is also a more impoverished concept, in terms of which the others can be expressed, interrelated, and investigated philosophically."
+                        },
+                        {
+                            "name": "make",
+                            "size": "133",
+                            "comm": "6",
+                            "para": "\ufeff\nWhat I am concerned with is knowledge only\u2014that we should think correctly and so far arrive at some truth, however unimportant: I do not say that such knowledge will make us more useful members of society. If anyone does not care for knowledge for its own sake, then I have nothing to say to him: only it should not be thought that a lack of interest in what I have to say is any ground for holding it untrue,\nG."
+                        },
+                        {
+                            "name": "provide",
+                            "size": "113",
+                            "comm": "6",
+                            "para": " It is still largely centred on a standalone, Cartesian-like, ratiocinating, human individual\u2014a vision which is in turn based on what might be called, borrowing a technical expression from mathematics, degenerate epistemology (Floridi, 2012b)\u2014when the world has in fact moved towards hybrid, distributed, and multi-agent systems (there is probably more \u2018moral agency\u2019 occurring at the level of governments, non-governmental organizations, parties, groups, companies, and so forth, than in the life of millions of individuals). A pinch of serious computer science and rigorous philosophy can provide a great counterbalance. After all, artificial agents tell us as much about ourselves as about our artefacts."
+                        }
+                    ]
+                },
+                {
+                    "name": "ethics",
+                    "size": "579",
+                    "comm": "6",
+                    "para": " But it is also a more impoverished concept, in terms of which the others can be expressed, interrelated, and investigated philosophically.\nAs the reader will see in Chapter 2, I interpret information ethics (IE) as the branch of the philosophy of information that investigates, in a broad sense, the ethical impact of Information and Communication Technologies (ICTs) on human life and society. ICTs have profoundly affected many aspects of the human condition, including the nature of communication, education, work, entertainment, industrial production and business, health care, social relations, and armed conflicts.",
+                    "children": [
+                        {
+                            "name": "informational",
+                            "size": "565",
+                            "comm": "6",
+                            "para": "\nThe second goal is introductory. In Chapters 6 to 11, the book explores the nature of informational entities and the infosphere as patients (i.e."
+                        },
+                        {
+                            "name": "agents",
+                            "size": "454",
+                            "comm": "6",
+                            "para": "e. receivers) of moral actions, the nature of moral agents (i.e."
+                        },
+                        {
+                            "name": "agent",
+                            "size": "438",
+                            "comm": "6",
+                            "para": " These robots can be successful because they have their environments \u2018wrapped\u2019 and tailored around their capacities, not vice versa. Imagine someone trying to build a droid like Star Wars\u2019 C3PO capable of washing dishes in the sink in exactly the same way as a human agent would. Now, despite some superficial appearances, ICTs are neither enhancing nor augmenting in the sense just explained."
+                        },
+                        {
+                            "name": "ethical",
+                            "size": "432",
+                            "comm": "6",
+                            "para": " In short, we need to develop a philosophy of information.\nThe philosophy of information investigates the conceptual nature and basic principles of information, including its ethical consequences (Floridi, 2011a). It is a thriving new area of research that intersects with, and complements, other classic areas of philosophical investigation, especially epistemology, metaphysics, logic, philosophy of science, philosophy of language and mind, and ethics."
+                        },
+                        {
+                            "name": "privacy",
+                            "size": "361",
+                            "comm": "6",
+                            "para": "\nwidespread influence on our moral lives and on contemporary ethical debates. Examples come readily to mind, from privacy and freedom of expression to Wikileaks, from the digital divide to a dystopian \u2018surveillance society\u2019, from artificial companions to drones and cyberwar. Indeed, the ethical problems raised by ICTs are ubiquitous in our society and in contemporary culture, and often lie behind debates in medical ethics, environmental ethics, neuroethics, and bioethics."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "value",
+            "size": "284",
+            "comm": "1",
+            "para": " For in a decade or so of debates, I have been made fully aware that some of the ideas I defend in the following pages are controversial. Ethics is often considered a strictly human business, in which deeply seated intuitions are treated as the ultimate criteria to assess the value of moral ideas. Ethics is obsessed with religious beliefs, psychologistic\n3\t1 owe this insight to Hongladarom (2008).",
+            "children": [
+                {
+                    "name": "icts",
+                    "size": "229",
+                    "comm": "1",
+                    "para": "\nAs the reader will see in Chapter 2, I interpret information ethics (IE) as the branch of the philosophy of information that investigates, in a broad sense, the ethical impact of Information and Communication Technologies (ICTs) on human life and society. ICTs have profoundly affected many aspects of the human condition, including the nature of communication, education, work, entertainment, industrial production and business, health care, social relations, and armed conflicts. They have had a radical and\n1\tSee The European Group on Ethics in Science and New Technologies, Opinion no.",
+                    "children": [
+                        {
+                            "name": "entity",
+                            "size": "181",
+                            "comm": "1",
+                            "para": " Instead of limiting the analysis to\nFigure 3. The \u2018internal\u2019 R(esource) P(roduct) T(arget) model\nsemantic contents\u2014as any narrower interpretation of IE as a microethics inevitably tends to do\u2014an ecological approach to information ethics also looks at information from an object-oriented perspective, and treats it as an entity as well. In other words, one moves from a (broadly constructed) epistemological conception of information ethics\u2014in which information is roughly equivalent to news or semantic content\u2014to one that is typically ontological, and treats information as equivalent to patterns or entities in the world."
+                        },
+                        {
+                            "name": "people",
+                            "size": "135",
+                            "comm": "1",
+                            "para": " If I do not thank all of them here, this is not for lack of manners or mere reason of space, but because the appropriate acknowledgements can be found in the corresponding, published articles.\nThere are, however, some people who played a significant role throughout the project (including volume one) and during the revisions of the final text. Kia first of all."
+                        },
+                        {
+                            "name": "means",
+                            "size": "134",
+                            "comm": "1",
+                            "para": " The emphasis is on the radical and difficult nature of the philosophical task ahead of us, not on any anti-foundationalist suggestion. Understanding philosophy as conceptual design means giving up not on its foundationalist vocation, but rather on the possibility of outsourcing its task to any combination of logico-mathematical and empirical approaches.3 At the same time, understanding philosophy as conceptual design enables one to avoid epistemic relativism at the expense of representationalism."
+                        }
+                    ]
+                },
+                {
+                    "name": "example",
+                    "size": "281",
+                    "comm": "1",
+                    "para": "\nIn the (fast approaching) future, more and more objects will be ITentities able to learn, advise, and communicate with one other. A good example is provided by RFID (Radio Frequency IDentification) tags, which can store and remotely retrieve data from an object and give it a unique identity, such as a barcode. Tags can measure 0.",
+                    "children": [
+                        {
+                            "name": "evil",
+                            "size": "273",
+                            "comm": "1",
+                            "para": " Socrates had already argued that a moral agent is naturally interested in gaining as much valuable information as the circumstances require, and that a well-informed agent is more likely to do the right thing. The ensuing \u2018ethical intellectualism\u2019 analyses evil and morally wrong behaviour as the outcome of deficient information. We do evil because we do not know better, in the sense that the better the information management is the less the moral evil that is caused."
+                        },
+                        {
+                            "name": "based",
+                            "size": "157",
+                            "comm": "1",
+                            "para": " It is a thriving new area of research that intersects with, and complements, other classic areas of philosophical investigation, especially epistemology, metaphysics, logic, philosophy of science, philosophy of language and mind, and ethics. It is based on two simple ideas. Information is something as fundamental and significant as knowledge, being, validity, truth, meaning, mind, or good and evil, and so equally worthy of autonomous, philosophical investigation."
+                        },
+                        {
+                            "name": "artificial",
+                            "size": "154",
+                            "comm": "1",
+                            "para": "\nwidespread influence on our moral lives and on contemporary ethical debates. Examples come readily to mind, from privacy and freedom of expression to Wikileaks, from the digital divide to a dystopian \u2018surveillance society\u2019, from artificial companions to drones and cyberwar. Indeed, the ethical problems raised by ICTs are ubiquitous in our society and in contemporary culture, and often lie behind debates in medical ethics, environmental ethics, neuroethics, and bioethics."
+                        },
+                        {
+                            "name": "alice",
+                            "size": "152",
+                            "comm": "1",
+                            "para": " We shall assume that Alice\u2019s evaluations and interactions have some moral value, but no specific value needs to be introduced at this stage. Intuitively, Alice can avail herself of some information (information as a resource) to generate some other information (information as a product), and in so doing affect her informational environment (information as target). This simple model, summarized in Figure 2, will help us to get some initial orientation in the multiplicity of issues belonging to information ethics."
                         },
                         {
                             "name": "perspective",
-                            "size": "125",
-                            "comm": "4",
+                            "size": "127",
+                            "comm": "1",
                             "para": " At the end of this shift, the infosphere will have moved from being a way to refer to the space of information to being synonymous with Being itself.\nWe are modifying our everyday perspective on the ultimate nature of reality, from a materialist one, in which physical objects and processes play a key role, to an informational one. This shift means that objects and processes are de-physicalized, in the sense that they tend to be seen as support-independent (consider a music file)."
                         }
                     ]
                 },
                 {
-                    "name": "intrinsic",
-                    "size": "123",
-                    "comm": "4",
-                    "para": "6\tThe conservative approach: CE as applied ethics\t94\n5.7\tThe innovative approach: information ethics as the foundation of CE\t97\nConclusion\t99\nChapter 6\u2014The intrinsic value of the infosphere\t102\nSummary\t102\n6.1\tIntroduction: an object-oriented model\tof moral action\t103\n6.",
-                    "children": [
-                        {
-                            "name": "social",
-                            "size": "122",
-                            "comm": "4",
-                            "para": "\nAs the reader will see in Chapter 2, I interpret information ethics (IE) as the branch of the philosophy of information that investigates, in a broad sense, the ethical impact of Information and Communication Technologies (ICTs) on human life and society. ICTs have profoundly affected many aspects of the human condition, including the nature of communication, education, work, entertainment, industrial production and business, health care, social relations, and armed conflicts. They have had a radical and\n1\tSee The European Group on Ethics in Science and New Technologies, Opinion no."
-                        },
-                        {
-                            "name": "space",
-                            "size": "107",
-                            "comm": "4",
-                            "para": " We have all known this in theory for some time; the difference is that now it is actually happening in our kitchen.\nNowadays, we are still used to considering the space of information as something we log-in to and log-out from. Our naive metaphysics is still modem or Newtonian: it is made of\u2018dead\u2019 cars, buildings, furniture, clothes, which are non-interactive, irresponsive, and incapable of communicating, learning, or memorizing."
-                        }
-                    ]
-                },
-                {
-                    "name": "possible",
-                    "size": "163",
-                    "comm": "4",
-                    "para": " The reader interested in such topics might wish to look at The Cambridge Handbook of Information and Computer Ethics (Floridi, 2010d) and at Information\u2014A Very Short Introduction (Floridi, 2010c). This book also avoids any discussion, insofar as this is possible given its topic, of political issues. One of the OUP anonymous reviewers rightly spotted that \u2018liberalism [is] at the heart of [Floridi\u2019s] \u201cdistributed constructionism\u201d\u2019, but it would have been too messy and too long to include here a full elaboration of such constructive liberalism.",
-                    "children": [
-                        {
-                            "name": "people",
-                            "size": "133",
-                            "comm": "4",
-                            "para": " If I do not thank all of them here, this is not for lack of manners or mere reason of space, but because the appropriate acknowledgements can be found in the corresponding, published articles.\nThere are, however, some people who played a significant role throughout the project (including volume one) and during the revisions of the final text. Kia first of all."
-                        },
-                        {
-                            "name": "means",
-                            "size": "133",
-                            "comm": "4",
-                            "para": " The emphasis is on the radical and difficult nature of the philosophical task ahead of us, not on any anti-foundationalist suggestion. Understanding philosophy as conceptual design means giving up not on its foundationalist vocation, but rather on the possibility of outsourcing its task to any combination of logico-mathematical and empirical approaches.3 At the same time, understanding philosophy as conceptual design enables one to avoid epistemic relativism at the expense of representationalism."
-                        },
-                        {
-                            "name": "fact",
-                            "size": "102",
-                            "comm": "4",
-                            "para": "\nAcknowledgements\nI could not have worked on such a long-term project without dividing it into some feasible and much smaller tasks. I must also confess that I was surprised by the fact that they still fitted together in the end. I hope this is not the symptom of a stubbornly closed mind."
-                        }
-                    ]
-                },
-                {
-                    "name": "issues",
-                    "size": "142",
-                    "comm": "4",
-                    "para": " It has made the creation, processing, management, and utilization of information vital issues, and brought enormous benefits as well as opportunities. However, it has also greatly outpaced our understanding of its nature, implications, and consequences, and raised conceptual issues that are rapidly expanding and evolving.1 They are also becoming increasingly serious.",
-                    "children": [
-                        {
-                            "name": "view",
-                            "size": "141",
-                            "comm": "4",
-                            "para": " We should not use the model to attempt to pigeonhole problems neatly, which is impossible. We should rather exploit it as a useful first approximation to be superseded, in view of a more encompassing approach to IE as a macroethics\\ that is, a theoretical, field-independent, applicable ethics. Philosophers will recognize here the Hegelian Aujhebung or Wittgenstein\u2019s ladder, which can be used to reach a new starting point, but then can be discharged."
-                        },
-                        {
-                            "name": "theory",
-                            "size": "140",
-                            "comm": "4",
-                            "para": "6\tInformational privacy, personal identity, and biometrics\t246\n12.7\tFour challenges for a theory of informational privacy\t249\n12.7."
-                        },
-                        {
-                            "name": "behaviour",
-                            "size": "123",
-                            "comm": "4",
-                            "para": " Socrates had already argued that a moral agent is naturally interested in gaining as much valuable information as the circumstances require, and that a well-informed agent is more likely to do the right thing. The ensuing \u2018ethical intellectualism\u2019 analyses evil and morally wrong behaviour as the outcome of deficient information. We do evil because we do not know better, in the sense that the better the information management is the less the moral evil that is caused."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "information",
-            "size": "914",
-            "comm": "1",
-            "para": "\ufeff\nPreface\txii\nAcknowledgements\txvii\nList of most common acronyms\txx\nList of figures\txxi\nList of tables\txxii\nChapter 1\u2014Ethics after the information revolution\t1\nSummary\t1\n1.1\tIntroduction: the hyperhistorical predicament\t3\n1.",
-            "children": [
-                {
-                    "name": "moral",
-                    "size": "871",
-                    "comm": "1",
-                    "para": "7\tThe innovative approach: information ethics as the foundation of CE\t97\nConclusion\t99\nChapter 6\u2014The intrinsic value of the infosphere\t102\nSummary\t102\n6.1\tIntroduction: an object-oriented model\tof moral action\t103\n6.2\tThe role of information in ethics\t109\n6.",
-                    "children": [
-                        {
-                            "name": "ethics",
-                            "size": "598",
-                            "comm": "1",
-                            "para": "1\tIntroduction: a unified model of information ethics\t20\n2.2\tFirst stage: IE as an ethics of informational resources\t21\n2.3\tSecond stage: IE as an ethics of informational products\t23\n2."
-                        },
-                        {
-                            "name": "informational",
-                            "size": "573",
-                            "comm": "1",
-                            "para": "1\tIntroduction: a unified model of information ethics\t20\n2.2\tFirst stage: IE as an ethics of informational resources\t21\n2.3\tSecond stage: IE as an ethics of informational products\t23\n2."
-                        }
-                    ]
-                },
-                {
-                    "name": "agents",
-                    "size": "458",
-                    "comm": "1",
-                    "para": "1\tIntroduction: standard vs. non-standard theories of agents and patients\t135\n7.2\tWhat is an agent.",
-                    "children": [
-                        {
-                            "name": "privacy",
-                            "size": "363",
-                            "comm": "1",
-                            "para": "1\tIntroduction: the dearest of our possessions\t229\n12.2\tInformational privacy and computer ethics\t229\n12.3\tInformational\tprivacy as a function of ontological friction\t231\n12."
-                        },
-                        {
-                            "name": "human",
-                            "size": "342",
-                            "comm": "1",
-                            "para": " But it is also a more impoverished concept, in terms of which the others can be expressed, interrelated, and investigated philosophically.\nAs the reader will see in Chapter 2, I interpret information ethics (IE) as the branch of the philosophy of information that investigates, in a broad sense, the ethical impact of Information and Communication Technologies (ICTs) on human life and society. ICTs have profoundly affected many aspects of the human condition, including the nature of communication, education, work, entertainment, industrial production and business, health care, social relations, and armed conflicts."
-                        },
-                        {
-                            "name": "good",
-                            "size": "337",
-                            "comm": "1",
-                            "para": "4.2\tHow can an informational entity\thave\u2018a good of its own\u2019.\t125\n6."
-                        },
-                        {
-                            "name": "morally",
-                            "size": "323",
-                            "comm": "1",
-                            "para": " From (1) and (2) it follows that:\n(3)\twe are witnessing a steady increase in agents\u2019 responsibilities. As I shall argue in Chapter 8, ICTs are making humanity increasingly responsible, morally speaking, for the way the world is, will and should be. This is a bit paradoxical since,\nas we shall see in Chapter 13, ICTs are also part of a wider phenomenon that is making the clear attribution of responsibility to specific individual agents more difficult and ambiguous."
-                        }
-                    ]
-                },
-                {
-                    "name": "agent",
-                    "size": "439",
-                    "comm": "1",
-                    "para": " These robots can be successful because they have their environments \u2018wrapped\u2019 and tailored around their capacities, not vice versa. Imagine someone trying to build a droid like Star Wars\u2019 C3PO capable of washing dishes in the sink in exactly the same way as a human agent would. Now, despite some superficial appearances, ICTs are neither enhancing nor augmenting in the sense just explained.",
-                    "children": [
-                        {
-                            "name": "ethical",
-                            "size": "438",
-                            "comm": "1",
-                            "para": "1\tIntroduction: the foundationalist problem\t54\n4.2\tClassic macroethics and ICTs ethical problems\t58\n4.3\tAn informational model of macroethics\t61\n4."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "self",
-            "size": "233",
-            "comm": "6",
-            "para": " Plato\u2019s Republic is an excellent example. Plato finds it\nunproblematic to move seamlessly between the construction of the ideal self and the construction of the ideal city-state. Likewise, Aristode\u2019s ideal state is actually a very small place:\nAristotle\u2019s ideal state would have had a territory of about 60 km2 with a population of 500 to 1000 households, that is, about 2% to 3% the size of Athens.",
-            "children": [
-                {
-                    "name": "sense",
-                    "size": "230",
-                    "comm": "6",
-                    "para": "\nThe ethical issues brought about by ICTs constitute a complicated and potentially confusing scenario, not least because it is in constant and rapid evolution. A simple analogy may help to make sense of the current situation. Our technological tree has been growing its far-reaching branches much more widely, rapidly, and chaotically than its conceptual, ethical, and cultural roots.",
-                    "children": [
-                        {
-                            "name": "world",
-                            "size": "215",
-                            "comm": "6",
-                            "para": " 115.\nThe information revolution has been changing the world profoundly and irreversibly for some time now, at a breath-taking pace, and with an unprecedented scope. It has made the creation, processing, management, and utilization of information vital issues, and brought enormous benefits as well as opportunities."
-                        },
-                        {
-                            "name": "respect",
-                            "size": "170",
-                            "comm": "6",
-                            "para": "9\tIE\u2019s measure of intrinsic moral value is insufficiently clear and specific\t317\n16.10\tIE\u2019s inference from moral value to moral respect is incorrect\t317\n16.11\tIE\u2019s negative argument for the intrinsic moral goodness of\nBeing is incorrect\t319\n16."
-                        },
-                        {
-                            "name": "patient",
-                            "size": "138",
-                            "comm": "6",
-                            "para": " This is the inevitable logical consequence of EF, but it is also a reductio ad absurdum. For surely the doctor teleoperating on a patient is still present, independently of her perception (or lack thereof) of the technological mediation. Surely the soldier is still telepresent on the minefield through a robot, despite all the possible perception of the artificial nature of the experience."
-                        },
-                        {
-                            "name": "need",
-                            "size": "137",
-                            "comm": "6",
-                            "para": "4.1\tThe need for an ontology\t124\n6.4."
-                        },
-                        {
-                            "name": "including",
-                            "size": "104",
-                            "comm": "6",
-                            "para": " In short, we need to develop a philosophy of information.\nThe philosophy of information investigates the conceptual nature and basic principles of information, including its ethical consequences (Floridi, 2011a). It is a thriving new area of research that intersects with, and complements, other classic areas of philosophical investigation, especially epistemology, metaphysics, logic, philosophy of science, philosophy of language and mind, and ethics."
-                        }
-                    ]
-                },
-                {
-                    "name": "individual",
-                    "size": "146",
-                    "comm": "6",
-                    "para": " As I shall argue in Chapter 8, ICTs are making humanity increasingly responsible, morally speaking, for the way the world is, will and should be. This is a bit paradoxical since,\nas we shall see in Chapter 13, ICTs are also part of a wider phenomenon that is making the clear attribution of responsibility to specific individual agents more difficult and ambiguous.\n1.",
-                    "children": [
-                        {
-                            "name": "order",
-                            "size": "145",
-                            "comm": "6",
-                            "para": "1 They are also becoming increasingly serious. Today, philosophy faces the challenge of providing a foundational treatment of the phenomena and the ideas underlying the information revolution, in order to foster our understanding and guide both the responsible construction of our society and the sustainable management of our natural and synthetic environments. In short, we need to develop a philosophy of information."
-                        }
-                    ]
-                },
-                {
                     "name": "terms",
-                    "size": "175",
-                    "comm": "6",
+                    "size": "177",
+                    "comm": "1",
                     "para": " Information is something as fundamental and significant as knowledge, being, validity, truth, meaning, mind, or good and evil, and so equally worthy of autonomous, philosophical investigation. But it is also a more impoverished concept, in terms of which the others can be expressed, interrelated, and investigated philosophically.\nAs the reader will see in Chapter 2, I interpret information ethics (IE) as the branch of the philosophy of information that investigates, in a broad sense, the ethical impact of Information and Communication Technologies (ICTs) on human life and society.",
                     "children": [
                         {
-                            "name": "analysis",
-                            "size": "175",
-                            "comm": "6",
-                            "para": "2\tThe role of information in ethics\t109\n6.3\tAn axiological analysis of information\t112\n6.3."
+                            "name": "personal",
+                            "size": "152",
+                            "comm": "1",
+                            "para": " I wish I could thank her or him in person.\nPenny Driscoll, my personal assistant, very kindly and most skilfully proofread the final version of the manuscript, making it much more readable. She also provided some very helpful philosophical feedback on the final version of the book."
                         },
                         {
-                            "name": "model",
-                            "size": "173",
-                            "comm": "6",
-                            "para": "\t19\nSummary\t19\n2.1\tIntroduction: a unified model of information ethics\t20\n2.2\tFirst stage: IE as an ethics of informational resources\t21\n2."
+                            "name": "intrinsic",
+                            "size": "121",
+                            "comm": "1",
+                            "para": "g. a company, a machine, or some artefact) anew, but one that also fundamentally transforms its intrinsic nature, that is, its ontology or essence. In this sense, for example, nanotechnologies and biotechnologies are not merely re-engineering but actually re-ontologizing our world."
                         },
                         {
-                            "name": "based",
-                            "size": "158",
-                            "comm": "6",
-                            "para": "2\tThe scope and limits of virtue ethics as a constructionist ethics\t164\n8.3\tWhy information ethics cannot be based on\tvirtue ethics\t166\n8.4\tEcopoiesis\t168\n8."
+                            "name": "conceptual",
+                            "size": "118",
+                            "comm": "1",
+                            "para": " It has made the creation, processing, management, and utilization of information vital issues, and brought enormous benefits as well as opportunities. However, it has also greatly outpaced our understanding of its nature, implications, and consequences, and raised conceptual issues that are rapidly expanding and evolving.1 They are also becoming increasingly serious."
                         },
                         {
-                            "name": "concept",
-                            "size": "132",
-                            "comm": "6",
-                            "para": "\nInfosphere is a neologism I coined some years ago (Floridi, 1999b) on the basis of \u2018biosphere\u2019, a term referring to that limited region on our planet that supports life. As will become clearer in the course of this book, it is a concept that is quickly evolving. Minimally, it denotes the whole informational environment constituted by all informational entities (thus including information agents as well), their properties, interactions, processes, and mutual relations."
-                        },
-                        {
-                            "name": "public",
-                            "size": "103",
-                            "comm": "6",
-                            "para": " During this span of time, ICTs evolved from being mainly recording systems\u2014writing and manuscript production\u2014to being also communication systems\u2014especially after Gutenberg and the invention of printing\u2014to being also processing and producing systems, especially after Turing and the diffusion of computers. Thanks to this evolution, nowadays, the most advanced societies highly depend on information-based, intangible assets (knowledge-based economy), information-intensive services (especially business and property services, communications, finance, insurance, and entertainment), and information-oriented public sectors (especially education, public administration, and health care). For example, all members of the G7 group\u2014namely Canada, France, Germany, Italy, Japan, United Kingdom, and the United States of America\u2014qualify as information societies because, in each country, at least 70 per cent of the Gross Domestic Product (GDP) depends on intangible goods, which are information-related, not on material goods, which are the physical output of agricultural or manufacturing processes."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "approach",
-            "size": "272",
-            "comm": "10",
-            "para": "3.2\tA patient-oriented approach to axiology\t115\n6.3.",
-            "children": [
-                {
-                    "name": "actions",
-                    "size": "268",
-                    "comm": "10",
-                    "para": "). In other words, the Internet highlighted how IE could also be understood in a second, but closely related sense, in which information plays an important role as a product of Alice\u2019s moral evaluations and actions (Cavalier, 2005). To understand this transformation, let us consider the RPT model again."
-                }
-            ]
-        },
-        {
-            "name": "better",
-            "size": "123",
-            "comm": "0",
-            "para": " Applying the previous analogy, while technology keeps growing bottom-up, it is high time we start digging deeper, top-down, in order to expand and reinforce our conceptual understanding of the foundations of our information ethics and of the moral implications and impact of ICTs. A better philosophical grasp will be essential, if we wish to have a better chance of anticipating difficulties, identifying opportunities, and resolving moral conflicts and dilemmas (I shall return to this analogy in the conclusion of Chapter 16).\nThe task of this book is to contribute to such conceptual foundations of IE as a new area of philosophical research.",
-            "children": [
-                {
-                    "name": "oriented",
-                    "size": "117",
-                    "comm": "0",
-                    "para": "4.4\tSocially oriented capitalism: peer-to-peer lending\t269\n13.5\tThe big challenge: harnessing the power of DM\t269\n13."
-                },
-                {
-                    "name": "conceptual",
-                    "size": "116",
-                    "comm": "0",
-                    "para": " It has made the creation, processing, management, and utilization of information vital issues, and brought enormous benefits as well as opportunities. However, it has also greatly outpaced our understanding of its nature, implications, and consequences, and raised conceptual issues that are rapidly expanding and evolving.1 They are also becoming increasingly serious."
-                },
-                {
-                    "name": "point",
-                    "size": "116",
-                    "comm": "0",
-                    "para": "\n3\tI know this was not Neurath\u2019s intention when he first introduced the metaphor of the raft in the 1930s. As he later wrote:\nThere is no way of taking conclusively established pure protocol sentences as the starting point of the sciences. No tabula rasa exists."
-                },
-                {
-                    "name": "macroethics",
-                    "size": "107",
-                    "comm": "0",
-                    "para": "1\tIntroduction: the foundationalist problem\t54\n4.2\tClassic macroethics and ICTs ethical problems\t58\n4.3\tAn informational model of macroethics\t61\n4."
-                }
-            ]
-        },
-        {
-            "name": "entities",
-            "size": "205",
-            "comm": "5",
-            "para": "\nThe second goal is introductory. In Chapters 6 to 11, the book explores the nature of informational entities and the infosphere as patients (i.e.",
-            "children": [
-                {
-                    "name": "understanding",
-                    "size": "114",
-                    "comm": "5",
-                    "para": " It has made the creation, processing, management, and utilization of information vital issues, and brought enormous benefits as well as opportunities. However, it has also greatly outpaced our understanding of its nature, implications, and consequences, and raised conceptual issues that are rapidly expanding and evolving.1 They are also becoming increasingly serious.",
-                    "children": [
-                        {
-                            "name": "provide",
-                            "size": "111",
-                            "comm": "5",
-                            "para": " It is still largely centred on a standalone, Cartesian-like, ratiocinating, human individual\u2014a vision which is in turn based on what might be called, borrowing a technical expression from mathematics, degenerate epistemology (Floridi, 2012b)\u2014when the world has in fact moved towards hybrid, distributed, and multi-agent systems (there is probably more \u2018moral agency\u2019 occurring at the level of governments, non-governmental organizations, parties, groups, companies, and so forth, than in the life of millions of individuals). A pinch of serious computer science and rigorous philosophy can provide a great counterbalance. After all, artificial agents tell us as much about ourselves as about our artefacts."
-                        },
-                        {
-                            "name": "responsible",
-                            "size": "104",
-                            "comm": "5",
-                            "para": "1 They are also becoming increasingly serious. Today, philosophy faces the challenge of providing a foundational treatment of the phenomena and the ideas underlying the information revolution, in order to foster our understanding and guide both the responsible construction of our society and the sustainable management of our natural and synthetic environments. In short, we need to develop a philosophy of information."
-                        },
-                        {
-                            "name": "form",
-                            "size": "103",
-                            "comm": "5",
-                            "para": " the magnetic structure of a digital support).0\nRe-ontologizing is another neologism that I have introduced in Floridi (2007a) in order to refer to a very radical form of re-engineering, one that not only designs, constructs, or structures a system (e.g."
+                            "name": "point",
+                            "size": "117",
+                            "comm": "1",
+                            "para": "\n3\tI know this was not Neurath\u2019s intention when he first introduced the metaphor of the raft in the 1930s. As he later wrote:\nThere is no way of taking conclusively established pure protocol sentences as the starting point of the sciences. No tabula rasa exists."
                         }
                     ]
                 },
                 {
-                    "name": "shall",
-                    "size": "200",
-                    "comm": "5",
-                    "para": " Indeed, the ethical problems raised by ICTs are ubiquitous in our society and in contemporary culture, and often lie behind debates in medical ethics, environmental ethics, neuroethics, and bioethics. As I shall argue in this book, they actually invite us to reconsider some fundamental tenets in our moral theories.\nThe ethical issues brought about by ICTs constitute a complicated and potentially confusing scenario, not least because it is in constant and rapid evolution.",
-                    "children": [
-                        {
-                            "name": "society",
-                            "size": "143",
-                            "comm": "5",
-                            "para": "1 They are also becoming increasingly serious. Today, philosophy faces the challenge of providing a foundational treatment of the phenomena and the ideas underlying the information revolution, in order to foster our understanding and guide both the responsible construction of our society and the sustainable management of our natural and synthetic environments. In short, we need to develop a philosophy of information."
-                        }
-                    ]
-                },
-                {
-                    "name": "artificial",
-                    "size": "157",
-                    "comm": "5",
-                    "para": "5\tRight but irrelevant.\t132\nConclusion\t133\nChapter 7\u2014The morality of artificial agents\t134\nSummary\t134\n7.1\tIntroduction: standard vs.",
-                    "children": [
-                        {
-                            "name": "alice",
-                            "size": "155",
-                            "comm": "5",
-                            "para": " We shall assume that Alice\u2019s evaluations and interactions have some moral value, but no specific value needs to be introduced at this stage. Intuitively, Alice can avail herself of some information (information as a resource) to generate some other information (information as a product), and in so doing affect her informational environment (information as target). This simple model, summarized in Figure 2, will help us to get some initial orientation in the multiplicity of issues belonging to information ethics."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "time",
-            "size": "169",
-            "comm": "9",
-            "para": " 115.\nThe information revolution has been changing the world profoundly and irreversibly for some time now, at a breath-taking pace, and with an unprecedented scope. It has made the creation, processing, management, and utilization of information vital issues, and brought enormous benefits as well as opportunities.",
-            "children": [
-                {
-                    "name": "case",
-                    "size": "159",
-                    "comm": "9",
-                    "para": " The debate on peer-to-peer (P2P) software provides a good example but, once again, this way of looking at information ethics is far from being a total novelty. Kant\u2019s classic analysis of the immorality of lying is one of the best-known case studies in the philosophical literature concerning this kind of information ethics. The boy crying wolf, Iago misleading Othello, or Cassandra and Laocoon, pointlessly warning the Trojans against the Greeks\u2019 wooden horse, remind us how the ineffective management of informational\nproducts may have tragic consequences."
-                },
-                {
-                    "name": "personal",
+                    "name": "digital",
                     "size": "151",
-                    "comm": "9",
-                    "para": "4\tThe ontological interpretation of informational privacy\nand its value\t242\n12.6\tInformational privacy, personal identity, and biometrics\t246\n12.7\tFour challenges for a theory of informational privacy\t249\n12."
-                }
-            ]
-        },
-        {
-            "name": "nature",
-            "size": "310",
-            "comm": "7",
-            "para": "6.1\tThe non-monotonic nature of goodness and its resilience\t72\n4.7\tInformation ethics as a macroethics\t74\n4.",
-            "children": [
-                {
-                    "name": "problem",
-                    "size": "194",
-                    "comm": "7",
-                    "para": "1\tThe Copenhagen Consensus: using information to cope\nwith information\t206\nConclusion\t208\nChapter 11\u2014The informational nature of selves\t210\nSummary\t210\n11.1\tIntroduction: Plato and the problem of the chariot\t211\n11.2\tEgology and its two branches\t213\n11.",
+                    "comm": "1",
+                    "para": "\nwidespread influence on our moral lives and on contemporary ethical debates. Examples come readily to mind, from privacy and freedom of expression to Wikileaks, from the digital divide to a dystopian \u2018surveillance society\u2019, from artificial companions to drones and cyberwar. Indeed, the ethical problems raised by ICTs are ubiquitous in our society and in contemporary culture, and often lie behind debates in medical ethics, environmental ethics, neuroethics, and bioethics.",
                     "children": [
                         {
-                            "name": "environment",
-                            "size": "193",
-                            "comm": "7",
-                            "para": " As will become clearer in the course of this book, it is a concept that is quickly evolving. Minimally, it denotes the whole informational environment constituted by all informational entities (thus including information agents as well), their properties, interactions, processes, and mutual relations. It is an environment comparable to, but different from, cyberspace, which is only one of its sub-regions, as it were, since it also includes offline and analogue spaces ofinformation."
+                            "name": "question",
+                            "size": "151",
+                            "comm": "1",
+                            "para": " Either way, the result is that today we acknowledge that we are not immobile, at the centre of the universe (Copemican revolution), we are not unnaturally separate and diverse from the rest of the animal kingdom (Darwinian revolution), and we are very far from being standalone Cartesian minds entirely transparent to ourselves (Freudian or neuroscientific revolution).\nOne may easily question the value of this classic picture. After all, Freud himself was the first to interpret these three revolutions as part of a single process of reassessment of human nature (Freud, 1955; Weinert, 2009)."
                         },
                         {
-                            "name": "right",
-                            "size": "191",
-                            "comm": "7",
-                            "para": " We are all acquainted daily with aspects of a frictionless infosphere, such as spamming (because every email is virtually free) and micrometering (because every fraction of a penny may now count). Three other significant consequences include:\n(1)\ta substantial erosion of the right to ignore: in an increasingly frictionless infosphere, it becomes progressively less credible to claim ignorance when confronted by easily predictable events (e.g."
-                        }
-                    ]
-                },
-                {
-                    "name": "business",
-                    "size": "177",
-                    "comm": "7",
-                    "para": "5\tThe big challenge: harnessing the power of DM\t269\n13.6\tDistributed morality and the enabling infraethics\t272\nConclusion\t274\nChapter 14\u2014Information business ethics\t277\nSummary\t277\n14.1\tIntroduction: from information ethics to business ethics\t279\n14.",
-                    "children": [
-                        {
-                            "name": "non",
-                            "size": "174",
-                            "comm": "7",
-                            "para": ""
-                        }
-                    ]
-                },
-                {
-                    "name": "action",
-                    "size": "256",
-                    "comm": "7",
-                    "para": "2\nSome of the classic issues in philosophy could easily be re-conceptualized as problems concerning (tele)presence.3 Examples include action at distance; the semantics of possible worlds understood as the availability and accessibility of spaces different from the actual; the tension between appearance and reality (where is the agent, really.) and the issuing sceptical challenges (is the agent\u2019s brain inside or outside a vat on Alpha Centauri.",
-                    "children": [
-                        {
-                            "name": "like",
-                            "size": "248",
-                            "comm": "7",
-                            "para": " The lack of balance is obvious and a matter of daily experience in the life of millions of people.2 The risk is that, like a tree with weak roots, further and healthier growth at the top will be impaired by a fragile foundation at the bottom. As a consequence, today, any information society faces the pressing task of equipping itself with a shareable and sustainable information ethics."
+                            "name": "social",
+                            "size": "124",
+                            "comm": "1",
+                            "para": "\nAs the reader will see in Chapter 2, I interpret information ethics (IE) as the branch of the philosophy of information that investigates, in a broad sense, the ethical impact of Information and Communication Technologies (ICTs) on human life and society. ICTs have profoundly affected many aspects of the human condition, including the nature of communication, education, work, entertainment, industrial production and business, health care, social relations, and armed conflicts. They have had a radical and\n1\tSee The European Group on Ethics in Science and New Technologies, Opinion no."
                         },
                         {
-                            "name": "loa",
-                            "size": "234",
-                            "comm": "7",
-                            "para": "16\tIE is counterintuitive\t325\n16.17\tIE\u2019s adoption of LoA is mistaken\t326\n16.18\tIE\u2019s interpretation of artificial agents as autonomous moral\nagents is mistaken\t327\n16."
+                            "name": "state",
+                            "size": "111",
+                            "comm": "1",
+                            "para": " The evolution of a changing system is captured at a given LoA and at any instant by the values of its observables (the attributes of the system). Thus, a system can be thought of as having states, determined by the value of the properties that hold at any instant of its evolution, for then any change in the system corresponds to a state change and vice versa. Generalizing, this enables one to view any system as having states and transitions."
+                        },
+                        {
+                            "name": "space",
+                            "size": "108",
+                            "comm": "1",
+                            "para": " We have all known this in theory for some time; the difference is that now it is actually happening in our kitchen.\nNowadays, we are still used to considering the space of information as something we log-in to and log-out from. Our naive metaphysics is still modem or Newtonian: it is made of\u2018dead\u2019 cars, buildings, furniture, clothes, which are non-interactive, irresponsive, and incapable of communicating, learning, or memorizing."
+                        },
+                        {
+                            "name": "including",
+                            "size": "105",
+                            "comm": "1",
+                            "para": " In short, we need to develop a philosophy of information.\nThe philosophy of information investigates the conceptual nature and basic principles of information, including its ethical consequences (Floridi, 2011a). It is a thriving new area of research that intersects with, and complements, other classic areas of philosophical investigation, especially epistemology, metaphysics, logic, philosophy of science, philosophy of language and mind, and ethics."
                         }
                     ]
                 }
@@ -466,145 +282,318 @@
         },
         {
             "name": "infosphere",
-            "size": "309",
-            "comm": "8",
+            "size": "310",
+            "comm": "4",
             "para": "\nThe second goal is introductory. In Chapters 6 to 11, the book explores the nature of informational entities and the infosphere as patients (i.e.",
             "children": [
                 {
-                    "name": "understood",
-                    "size": "110",
-                    "comm": "8",
-                    "para": " It will become normal to consider the world as part of the infosphere, not so much in the dystopian sense expressed by a Matrix-like scenario, where the \u2018real reality\u2019 is still as hard as the metal of the machines that inhabit it; but in the evolutionary, hybrid sense represented by an environment such as New Port City, the fictional, post-cybernetic metropolis of Ghost in the Shell. The infosphere will not be a virtual environment supported by a genuinely \u2018material\u2019 world behind; rather, it will be the world itself that will be increasingly interpreted and understood informationally, as part of the infosphere. At the end of this shift, the infosphere will have moved from being a way to refer to the space of information to being synonymous with Being itself.",
+                    "name": "responsible",
+                    "size": "105",
+                    "comm": "4",
+                    "para": "1 They are also becoming increasingly serious. Today, philosophy faces the challenge of providing a foundational treatment of the phenomena and the ideas underlying the information revolution, in order to foster our understanding and guide both the responsible construction of our society and the sustainable management of our natural and synthetic environments. In short, we need to develop a philosophy of information.",
+                    "children": []
+                },
+                {
+                    "name": "entities",
+                    "size": "208",
+                    "comm": "4",
+                    "para": "\nThe second goal is introductory. In Chapters 6 to 11, the book explores the nature of informational entities and the infosphere as patients (i.e.",
                     "children": [
                         {
-                            "name": "state",
-                            "size": "109",
-                            "comm": "8",
-                            "para": " The evolution of a changing system is captured at a given LoA and at any instant by the values of its observables (the attributes of the system). Thus, a system can be thought of as having states, determined by the value of the properties that hold at any instant of its evolution, for then any change in the system corresponds to a state change and vice versa. Generalizing, this enables one to view any system as having states and transitions."
+                            "name": "environment",
+                            "size": "195",
+                            "comm": "4",
+                            "para": " As will become clearer in the course of this book, it is a concept that is quickly evolving. Minimally, it denotes the whole informational environment constituted by all informational entities (thus including information agents as well), their properties, interactions, processes, and mutual relations. It is an environment comparable to, but different from, cyberspace, which is only one of its sub-regions, as it were, since it also includes offline and analogue spaces ofinformation."
+                        }
+                    ]
+                },
+                {
+                    "name": "right",
+                    "size": "193",
+                    "comm": "4",
+                    "para": " We are all acquainted daily with aspects of a frictionless infosphere, such as spamming (because every email is virtually free) and micrometering (because every fraction of a penny may now count). Three other significant consequences include:\n(1)\ta substantial erosion of the right to ignore: in an increasingly frictionless infosphere, it becomes progressively less credible to claim ignorance when confronted by easily predictable events (e.g.",
+                    "children": [
+                        {
+                            "name": "problem",
+                            "size": "192",
+                            "comm": "4",
+                            "para": " It attaches tags to valuables and enables a computer to pinpoint their location in the home. See \u201812 year old inventors use wireless to solve the problem of lost keys\u2019, Public Technology, 7 April 2008.\n1."
+                        },
+                        {
+                            "name": "way",
+                            "size": "190",
+                            "comm": "4",
+                            "para": " I was made aware of such connections by other philosophers, while working on the articles that led to this book. Once we grasp them, ideas have their own way of leading us by the hand to unknown places we might not have meant to visit. Some books write their authors."
                         }
                     ]
                 },
                 {
                     "name": "new",
-                    "size": "294",
-                    "comm": "8",
-                    "para": "3\tInformational\tprivacy as a function of ontological friction\t231\n12.4\tOntological friction and the difference between old and new ICTs\t232\n12.5\tInformational privacy in the re-ontologized infosphere\t235\n12.",
+                    "size": "296",
+                    "comm": "4",
+                    "para": "\nThe philosophy of information investigates the conceptual nature and basic principles of information, including its ethical consequences (Floridi, 2011a). It is a thriving new area of research that intersects with, and complements, other classic areas of philosophical investigation, especially epistemology, metaphysics, logic, philosophy of science, philosophy of language and mind, and ethics. It is based on two simple ideas.",
                     "children": [
                         {
-                            "name": "value",
-                            "size": "284",
-                            "comm": "8",
-                            "para": "6\tThe conservative approach: CE as applied ethics\t94\n5.7\tThe innovative approach: information ethics as the foundation of CE\t97\nConclusion\t99\nChapter 6\u2014The intrinsic value of the infosphere\t102\nSummary\t102\n6.1\tIntroduction: an object-oriented model\tof moral action\t103\n6."
+                            "name": "world",
+                            "size": "218",
+                            "comm": "4",
+                            "para": " 115.\nThe information revolution has been changing the world profoundly and irreversibly for some time now, at a breath-taking pace, and with an unprecedented scope. It has made the creation, processing, management, and utilization of information vital issues, and brought enormous benefits as well as opportunities."
                         },
                         {
-                            "name": "icts",
-                            "size": "230",
-                            "comm": "8",
-                            "para": "1\tIntroduction: the foundationalist problem\t54\n4.2\tClassic macroethics and ICTs ethical problems\t58\n4.3\tAn informational model of macroethics\t61\n4."
+                            "name": "understanding",
+                            "size": "115",
+                            "comm": "4",
+                            "para": " It has made the creation, processing, management, and utilization of information vital issues, and brought enormous benefits as well as opportunities. However, it has also greatly outpaced our understanding of its nature, implications, and consequences, and raised conceptual issues that are rapidly expanding and evolving.1 They are also becoming increasingly serious."
                         }
                     ]
-                },
-                {
-                    "name": "software",
-                    "size": "102",
-                    "comm": "8",
-                    "para": " The following examples should help to make the previous points clearer and more concrete.\nIn recent yean, many countries have followed the USA in counting acquisition of software not as a current business expense but as an investment, to be treated as any other capital input that is repeatedly used in production over time, like a factory. Spending on software now regularly contributes to GDPs.",
-                    "children": []
-                },
-                {
-                    "name": "process",
-                    "size": "139",
-                    "comm": "8",
-                    "para": "\nComputing resources themselves are usually provided by hardware, which then represents the major constraint for their flexible deployment. Yet we are fast moving towards a stage when cloud computing is \u2018softening\u2019 our hardware through \u2018virtualization\u2019, the process whereby one can deliver computing resources, usually built-in hardware\u2014like a specific CPU, a storage facility or a network infrastructure\u2014by means of software. For example, virtualization can be adopted in order to run multiple operating systems on a single physical computing machine so that, if more machines are needed, they can be created as a piece of software\u2014i.",
-                    "children": []
                 }
             ]
         },
         {
-            "name": "example",
-            "size": "281",
-            "comm": "2",
-            "para": "\nIn the (fast approaching) future, more and more objects will be ITentities able to learn, advise, and communicate with one other. A good example is provided by RFID (Radio Frequency IDentification) tags, which can store and remotely retrieve data from an object and give it a unique identity, such as a barcode. Tags can measure 0.",
+            "name": "shall",
+            "size": "194",
+            "comm": "0",
+            "para": " Indeed, the ethical problems raised by ICTs are ubiquitous in our society and in contemporary culture, and often lie behind debates in medical ethics, environmental ethics, neuroethics, and bioethics. As I shall argue in this book, they actually invite us to reconsider some fundamental tenets in our moral theories.\nThe ethical issues brought about by ICTs constitute a complicated and potentially confusing scenario, not least because it is in constant and rapid evolution.",
             "children": [
                 {
-                    "name": "presence",
-                    "size": "146",
-                    "comm": "2",
-                    "para": "4.4\tAn objection against presence as successful observation\t46\n3.4.",
+                    "name": "individual",
+                    "size": "147",
+                    "comm": "0",
+                    "para": " As I shall argue in Chapter 8, ICTs are making humanity increasingly responsible, morally speaking, for the way the world is, will and should be. This is a bit paradoxical since,\nas we shall see in Chapter 13, ICTs are also part of a wider phenomenon that is making the clear attribution of responsibility to specific individual agents more difficult and ambiguous.\n1.",
+                    "children": []
+                },
+                {
+                    "name": "analysis",
+                    "size": "174",
+                    "comm": "0",
+                    "para": "\nFrom an injormation-as-resource perspective, it seems that the machinery of moral thinking and behaviour needs information, and quite a lot of it, to function properly. However, even within the limited scope adopted by an analysis based solely on information as a resource, care should be exercised, lest all ethical discourse is reduced to the nuances of higher quantity, quality, intelligibility, and usability of informational resources. The more the better is not the only, nor always the best, rule of thumb.",
                     "children": [
                         {
-                            "name": "specific",
-                            "size": "146",
-                            "comm": "2",
-                            "para": " As I shall argue in Chapter 8, ICTs are making humanity increasingly responsible, morally speaking, for the way the world is, will and should be. This is a bit paradoxical since,\nas we shall see in Chapter 13, ICTs are also part of a wider phenomenon that is making the clear attribution of responsibility to specific individual agents more difficult and ambiguous.\n1."
+                            "name": "public",
+                            "size": "104",
+                            "comm": "0",
+                            "para": " During this span of time, ICTs evolved from being mainly recording systems\u2014writing and manuscript production\u2014to being also communication systems\u2014especially after Gutenberg and the invention of printing\u2014to being also processing and producing systems, especially after Turing and the diffusion of computers. Thanks to this evolution, nowadays, the most advanced societies highly depend on information-based, intangible assets (knowledge-based economy), information-intensive services (especially business and property services, communications, finance, insurance, and entertainment), and information-oriented public sectors (especially education, public administration, and health care). For example, all members of the G7 group\u2014namely Canada, France, Germany, Italy, Japan, United Kingdom, and the United States of America\u2014qualify as information societies because, in each country, at least 70 per cent of the Gross Domestic Product (GDP) depends on intangible goods, which are information-related, not on material goods, which are the physical output of agricultural or manufacturing processes."
+                        },
+                        {
+                            "name": "fact",
+                            "size": "103",
+                            "comm": "0",
+                            "para": "\nAcknowledgements\nI could not have worked on such a long-term project without dividing it into some feasible and much smaller tasks. I must also confess that I was surprised by the fact that they still fitted together in the end. I hope this is not the symptom of a stubbornly closed mind."
                         }
                     ]
                 },
                 {
-                    "name": "digital",
-                    "size": "150",
-                    "comm": "2",
-                    "para": "5.5\tPerception: the digital gaze\t223\n11.6\tThe logic of realization\t225\n11.",
+                    "name": "form",
+                    "size": "104",
+                    "comm": "0",
+                    "para": " the magnetic structure of a digital support).0\nRe-ontologizing is another neologism that I have introduced in Floridi (2007a) in order to refer to a very radical form of re-engineering, one that not only designs, constructs, or structures a system (e.g.",
                     "children": [
                         {
-                            "name": "question",
-                            "size": "149",
-                            "comm": "2",
-                            "para": " Either way, the result is that today we acknowledge that we are not immobile, at the centre of the universe (Copemican revolution), we are not unnaturally separate and diverse from the rest of the animal kingdom (Darwinian revolution), and we are very far from being standalone Cartesian minds entirely transparent to ourselves (Freudian or neuroscientific revolution).\nOne may easily question the value of this classic picture. After all, Freud himself was the first to interpret these three revolutions as part of a single process of reassessment of human nature (Freud, 1955; Weinert, 2009)."
+                            "name": "software",
+                            "size": "103",
+                            "comm": "0",
+                            "para": " The following examples should help to make the previous points clearer and more concrete.\nIn recent yean, many countries have followed the USA in counting acquisition of software not as a current business expense but as an investment, to be treated as any other capital input that is repeatedly used in production over time, like a factory. Spending on software now regularly contributes to GDPs."
+                        },
+                        {
+                            "name": "person",
+                            "size": "103",
+                            "comm": "0",
+                            "para": " 16)\u2014and of re-appropriation. The person who puts a sticker in the window of her car, which is otherwise perfecdy identical to thousands of others, is fighting an anti-Platonic batde in support of a nominalist philosophy. The information revolution has further exacerbated this process."
+                        },
+                        {
+                            "name": "previous",
+                            "size": "101",
+                            "comm": "0",
+                            "para": " It is not by chance that IFAP (UNESCO intergovernmental council for the Information For All Programme) is drafting the UNESCO \u2018Code of Ethics for the Information Society\u2019, which is expected to lead to the UNESCO \u2018Declaration on Infoethics in Cyberspace\u2019. Applying the previous analogy, while technology keeps growing bottom-up, it is high time we start digging deeper, top-down, in order to expand and reinforce our conceptual understanding of the foundations of our information ethics and of the moral implications and impact of ICTs. A better philosophical grasp will be essential, if we wish to have a better chance of anticipating difficulties, identifying opportunities, and resolving moral conflicts and dilemmas (I shall return to this analogy in the conclusion of Chapter 16)."
+                        }
+                    ]
+                },
+                {
+                    "name": "model",
+                    "size": "163",
+                    "comm": "0",
+                    "para": " When our ancestors bought a horse, they bought this horse or that horse, not \u2018the\u2019 horse. Today, we find it obvious that two automobiles may be virtually identical and that we are invited to test-drive and buy the model rather than an individual \u2018incarnation\u2019 of it. We buy the type not the token.",
+                    "children": [
+                        {
+                            "name": "case",
+                            "size": "161",
+                            "comm": "0",
+                            "para": " The debate on peer-to-peer (P2P) software provides a good example but, once again, this way of looking at information ethics is far from being a total novelty. Kant\u2019s classic analysis of the immorality of lying is one of the best-known case studies in the philosophical literature concerning this kind of information ethics. The boy crying wolf, Iago misleading Othello, or Cassandra and Laocoon, pointlessly warning the Trojans against the Greeks\u2019 wooden horse, remind us how the ineffective management of informational\nproducts may have tragic consequences."
+                        },
+                        {
+                            "name": "life",
+                            "size": "160",
+                            "comm": "0",
+                            "para": " But it is also a more impoverished concept, in terms of which the others can be expressed, interrelated, and investigated philosophically.\nAs the reader will see in Chapter 2, I interpret information ethics (IE) as the branch of the philosophy of information that investigates, in a broad sense, the ethical impact of Information and Communication Technologies (ICTs) on human life and society. ICTs have profoundly affected many aspects of the human condition, including the nature of communication, education, work, entertainment, industrial production and business, health care, social relations, and armed conflicts."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "information",
+            "size": "898",
+            "comm": "7",
+            "para": " 115.\nThe information revolution has been changing the world profoundly and irreversibly for some time now, at a breath-taking pace, and with an unprecedented scope. It has made the creation, processing, management, and utilization of information vital issues, and brought enormous benefits as well as opportunities.",
+            "children": [
+                {
+                    "name": "nature",
+                    "size": "311",
+                    "comm": "7",
+                    "para": " In short, we need to develop a philosophy of information.\nThe philosophy of information investigates the conceptual nature and basic principles of information, including its ethical consequences (Floridi, 2011a). It is a thriving new area of research that intersects with, and complements, other classic areas of philosophical investigation, especially epistemology, metaphysics, logic, philosophy of science, philosophy of language and mind, and ethics.",
+                    "children": [
+                        {
+                            "name": "order",
+                            "size": "147",
+                            "comm": "7",
+                            "para": "1 They are also becoming increasingly serious. Today, philosophy faces the challenge of providing a foundational treatment of the phenomena and the ideas underlying the information revolution, in order to foster our understanding and guide both the responsible construction of our society and the sustainable management of our natural and synthetic environments. In short, we need to develop a philosophy of information."
+                        },
+                        {
+                            "name": "society",
+                            "size": "142",
+                            "comm": "7",
+                            "para": "1 They are also becoming increasingly serious. Today, philosophy faces the challenge of providing a foundational treatment of the phenomena and the ideas underlying the information revolution, in order to foster our understanding and guide both the responsible construction of our society and the sustainable management of our natural and synthetic environments. In short, we need to develop a philosophy of information."
+                        },
+                        {
+                            "name": "behaviour",
+                            "size": "123",
+                            "comm": "7",
+                            "para": " Socrates had already argued that a moral agent is naturally interested in gaining as much valuable information as the circumstances require, and that a well-informed agent is more likely to do the right thing. The ensuing \u2018ethical intellectualism\u2019 analyses evil and morally wrong behaviour as the outcome of deficient information. We do evil because we do not know better, in the sense that the better the information management is the less the moral evil that is caused."
+                        }
+                    ]
+                },
+                {
+                    "name": "time",
+                    "size": "170",
+                    "comm": "7",
+                    "para": " 115.\nThe information revolution has been changing the world profoundly and irreversibly for some time now, at a breath-taking pace, and with an unprecedented scope. It has made the creation, processing, management, and utilization of information vital issues, and brought enormous benefits as well as opportunities.",
+                    "children": [
+                        {
+                            "name": "data",
+                            "size": "167",
+                            "comm": "7",
+                            "para": " For example, all members of the G7 group\u2014namely Canada, France, Germany, Italy, Japan, United Kingdom, and the United States of America\u2014qualify as information societies because, in each country, at least 70 per cent of the Gross Domestic Product (GDP) depends on intangible goods, which are information-related, not on material goods, which are the physical output of agricultural or manufacturing processes. Their functioning and growth requires and generates immense amounts of data, more data than humanity has ever seen in its entire history.\n1."
                         },
                         {
                             "name": "different",
-                            "size": "148",
-                            "comm": "2",
+                            "size": "150",
+                            "comm": "7",
                             "para": " Without her exceptional support and impeccable managerial skills I could not have completed this project.\nFinally, I would like to thank the University of Bari, Hertfordshire and the University of Oxford for having provided me with the time to pursue my research at different stages during the past fourteen years. The final writing effort was made possible thanks to two Arts and Humanities Research Council grants during the academic years 2010-\nII\tand 2011-12."
-                        }
-                    ]
-                },
-                {
-                    "name": "data",
-                    "size": "165",
-                    "comm": "2",
-                    "para": " For example, all members of the G7 group\u2014namely Canada, France, Germany, Italy, Japan, United Kingdom, and the United States of America\u2014qualify as information societies because, in each country, at least 70 per cent of the Gross Domestic Product (GDP) depends on intangible goods, which are information-related, not on material goods, which are the physical output of agricultural or manufacturing processes. Their functioning and growth requires and generates immense amounts of data, more data than humanity has ever seen in its entire history.\n1.",
-                    "children": [
-                        {
-                            "name": "life",
-                            "size": "159",
-                            "comm": "2",
-                            "para": " But it is also a more impoverished concept, in terms of which the others can be expressed, interrelated, and investigated philosophically.\nAs the reader will see in Chapter 2, I interpret information ethics (IE) as the branch of the philosophy of information that investigates, in a broad sense, the ethical impact of Information and Communication Technologies (ICTs) on human life and society. ICTs have profoundly affected many aspects of the human condition, including the nature of communication, education, work, entertainment, industrial production and business, health care, social relations, and armed conflicts."
                         },
                         {
-                            "name": "ontological",
-                            "size": "151",
-                            "comm": "2",
-                            "para": "2\tThe definition of a level of abstraction\t31\n3.3\tAbstraction and ontological commitment\t34\n3.4\tAn application of the method of abstraction: telepresence\t36\n3."
+                            "name": "oriented",
+                            "size": "115",
+                            "comm": "7",
+                            "para": " Likewise, Severson (1997), after the typical introduction to ethical ideas, dedicates a long chapter to respect for intellectual property. Finally, it would be fair to say that the new perspective can be more often found shared, perhaps implicitly, by studies that are socio-legally oriented and in which IT-professional issues appear more prominently.\n2."
+                        },
+                        {
+                            "name": "macroethics",
+                            "size": "106",
+                            "comm": "7",
+                            "para": " 83.\nSUMMARY\nPreviously, in Chapter 2, I suggested that the development of information ethics as a macroethics requires a change in our view of the world, in our ontological perspective. Such a change is made possible by the method of (levels of) abstraction (LoA)."
                         }
                     ]
                 },
                 {
-                    "name": "evil",
-                    "size": "275",
-                    "comm": "2",
-                    "para": "2\tNonsubstantialism: a deflatory interpretation of the existence of evil\t183\n9.3\tThe evolution of evil and the theodicean problem\t185\n9.4\tArtificial evil\t187\nConclusion\t191\nChapter 10\u2014The tragedy of the Good Will\t194\nSummary\t194\n10.",
+                    "name": "process",
+                    "size": "140",
+                    "comm": "7",
+                    "para": "\nComputing resources themselves are usually provided by hardware, which then represents the major constraint for their flexible deployment. Yet we are fast moving towards a stage when cloud computing is \u2018softening\u2019 our hardware through \u2018virtualization\u2019, the process whereby one can deliver computing resources, usually built-in hardware\u2014like a specific CPU, a storage facility or a network infrastructure\u2014by means of software. For example, virtualization can be adopted in order to run multiple operating systems on a single physical computing machine so that, if more machines are needed, they can be created as a piece of software\u2014i.",
                     "children": [
                         {
-                            "name": "chapter",
-                            "size": "275",
-                            "comm": "2",
-                            "para": " But it is also a more impoverished concept, in terms of which the others can be expressed, interrelated, and investigated philosophically.\nAs the reader will see in Chapter 2, I interpret information ethics (IE) as the branch of the philosophy of information that investigates, in a broad sense, the ethical impact of Information and Communication Technologies (ICTs) on human life and society. ICTs have profoundly affected many aspects of the human condition, including the nature of communication, education, work, entertainment, industrial production and business, health care, social relations, and armed conflicts."
+                            "name": "theory",
+                            "size": "140",
+                            "comm": "7",
+                            "para": " Your next fridge7 could already inherit from the previous one your tastes and wishes, just as your new laptop can import your favourite settings from the old one; and it could interact with your new way of cooking and with the supermarket website, just as your laptop can talk to a printer or to another computer. We have all known this in theory for some time; the difference is that now it is actually happening in our kitchen.\nNowadays, we are still used to considering the space of information as something we log-in to and log-out from."
+                        },
+                        {
+                            "name": "need",
+                            "size": "138",
+                            "comm": "7",
+                            "para": " Today, philosophy faces the challenge of providing a foundational treatment of the phenomena and the ideas underlying the information revolution, in order to foster our understanding and guide both the responsible construction of our society and the sustainable management of our natural and synthetic environments. In short, we need to develop a philosophy of information.\nThe philosophy of information investigates the conceptual nature and basic principles of information, including its ethical consequences (Floridi, 2011a)."
+                        },
+                        {
+                            "name": "patient",
+                            "size": "136",
+                            "comm": "7",
+                            "para": " This is the inevitable logical consequence of EF, but it is also a reductio ad absurdum. For surely the doctor teleoperating on a patient is still present, independently of her perception (or lack thereof) of the technological mediation. Surely the soldier is still telepresent on the minefield through a robot, despite all the possible perception of the artificial nature of the experience."
                         }
                     ]
                 },
                 {
-                    "name": "way",
-                    "size": "188",
-                    "comm": "2",
-                    "para": " I was made aware of such connections by other philosophers, while working on the articles that led to this book. Once we grasp them, ideas have their own way of leading us by the hand to unknown places we might not have meant to visit. Some books write their authors.",
+                    "name": "ontological",
+                    "size": "149",
+                    "comm": "7",
+                    "para": ") is now the same as (and hence fully compatible with) the ontology of their objects, the raw data being manipulated. This was one of Turing\u2019s most consequential intuitions: in the re-ontologized infosphere, populated by ontologically equal entities and agents, where there is no ontological difference between processors and processed, interactions become equally digital. They are all interpretable as \u2018read/write\u2019 (i.",
                     "children": [
                         {
-                            "name": "entity",
-                            "size": "179",
-                            "comm": "2",
-                            "para": " Instead of limiting the analysis to\nFigure 3. The \u2018internal\u2019 R(esource) P(roduct) T(arget) model\nsemantic contents\u2014as any narrower interpretation of IE as a microethics inevitably tends to do\u2014an ecological approach to information ethics also looks at information from an object-oriented perspective, and treats it as an entity as well. In other words, one moves from a (broadly constructed) epistemological conception of information ethics\u2014in which information is roughly equivalent to news or semantic content\u2014to one that is typically ontological, and treats information as equivalent to patterns or entities in the world."
+                            "name": "view",
+                            "size": "142",
+                            "comm": "7",
+                            "para": " We should not use the model to attempt to pigeonhole problems neatly, which is impossible. We should rather exploit it as a useful first approximation to be superseded, in view of a more encompassing approach to IE as a macroethics\\ that is, a theoretical, field-independent, applicable ethics. Philosophers will recognize here the Hegelian Aujhebung or Wittgenstein\u2019s ladder, which can be used to reach a new starting point, but then can be discharged."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "sense",
+            "size": "233",
+            "comm": "5",
+            "para": "\nThe ethical issues brought about by ICTs constitute a complicated and potentially confusing scenario, not least because it is in constant and rapid evolution. A simple analogy may help to make sense of the current situation. Our technological tree has been growing its far-reaching branches much more widely, rapidly, and chaotically than its conceptual, ethical, and cultural roots.",
+            "children": [
+                {
+                    "name": "self",
+                    "size": "233",
+                    "comm": "5",
+                    "para": " Plato\u2019s Republic is an excellent example. Plato finds it\nunproblematic to move seamlessly between the construction of the ideal self and the construction of the ideal city-state. Likewise, Aristode\u2019s ideal state is actually a very small place:\nAristotle\u2019s ideal state would have had a territory of about 60 km2 with a population of 500 to 1000 households, that is, about 2% to 3% the size of Athens.",
+                    "children": [
+                        {
+                            "name": "possible",
+                            "size": "165",
+                            "comm": "5",
+                            "para": " The reader interested in such topics might wish to look at The Cambridge Handbook of Information and Computer Ethics (Floridi, 2010d) and at Information\u2014A Very Short Introduction (Floridi, 2010c). This book also avoids any discussion, insofar as this is possible given its topic, of political issues. One of the OUP anonymous reviewers rightly spotted that \u2018liberalism [is] at the heart of [Floridi\u2019s] \u201cdistributed constructionism\u201d\u2019, but it would have been too messy and too long to include here a full elaboration of such constructive liberalism."
+                        }
+                    ]
+                },
+                {
+                    "name": "issues",
+                    "size": "144",
+                    "comm": "5",
+                    "para": " It has made the creation, processing, management, and utilization of information vital issues, and brought enormous benefits as well as opportunities. However, it has also greatly outpaced our understanding of its nature, implications, and consequences, and raised conceptual issues that are rapidly expanding and evolving.1 They are also becoming increasingly serious.",
+                    "children": []
+                },
+                {
+                    "name": "concept",
+                    "size": "134",
+                    "comm": "5",
+                    "para": "\nInfosphere is a neologism I coined some years ago (Floridi, 1999b) on the basis of \u2018biosphere\u2019, a term referring to that limited region on our planet that supports life. As will become clearer in the course of this book, it is a concept that is quickly evolving. Minimally, it denotes the whole informational environment constituted by all informational entities (thus including information agents as well), their properties, interactions, processes, and mutual relations.",
+                    "children": []
+                },
+                {
+                    "name": "understood",
+                    "size": "111",
+                    "comm": "5",
+                    "para": " It will become normal to consider the world as part of the infosphere, not so much in the dystopian sense expressed by a Matrix-like scenario, where the \u2018real reality\u2019 is still as hard as the metal of the machines that inhabit it; but in the evolutionary, hybrid sense represented by an environment such as New Port City, the fictional, post-cybernetic metropolis of Ghost in the Shell. The infosphere will not be a virtual environment supported by a genuinely \u2018material\u2019 world behind; rather, it will be the world itself that will be increasingly interpreted and understood informationally, as part of the infosphere. At the end of this shift, the infosphere will have moved from being a way to refer to the space of information to being synonymous with Being itself.",
+                    "children": []
+                },
+                {
+                    "name": "business",
+                    "size": "173",
+                    "comm": "5",
+                    "para": "\nThe third goal is constructive. In Chapters 12 to 15, the book answers questions about privacy, morality in distributed systems, the relation between information and business ethics, and the global nature of an information ethics for all. The final chapter provides a defence of IE from some recurrent criticisms.",
+                    "children": [
+                        {
+                            "name": "problems",
+                            "size": "172",
+                            "comm": "5",
+                            "para": " Examples come readily to mind, from privacy and freedom of expression to Wikileaks, from the digital divide to a dystopian \u2018surveillance society\u2019, from artificial companions to drones and cyberwar. Indeed, the ethical problems raised by ICTs are ubiquitous in our society and in contemporary culture, and often lie behind debates in medical ethics, environmental ethics, neuroethics, and bioethics. As I shall argue in this book, they actually invite us to reconsider some fundamental tenets in our moral theories."
+                        },
+                        {
+                            "name": "respect",
+                            "size": "172",
+                            "comm": "5",
+                            "para": " as George W. Bush did with respect to Hurricane Katrina\u2019s disastrous effects on New Orleans\u2019s flood barriers) and hardly ignorable facts (e.g."
                         }
                     ]
                 }
