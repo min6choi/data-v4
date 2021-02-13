@@ -38,11 +38,12 @@ label.subtitle {
   display: flex;
   justify-content: center;
   font-family: 'IM Fell DW Pica', serif;
-  padding-bottom: 30px;
   font-size: 20px;
+  padding-bottom: 5px;
   color: #262626;
   font-weight: 800;
 }
+
 
 /* graph.js 에서 설정
 .links line {
@@ -57,15 +58,6 @@ label.subtitle {
 }
 */
 
-.scroll-down-arrow{
-  display: flex;
-  justify-content: center;
-  font-family: 'IM Fell DW Pica', serif;
-  padding-bottom: 30px;
-  font-size: 20px;
-  color: #262626;
-  font-weight: 800;
-}
 
 .eng-main {
   display: flex;
