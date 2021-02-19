@@ -16,10 +16,9 @@ Published by Luciano Floridi
 
  So, are all the words connected with each other eventually? Yes, right. However, it may be different because of the number of times `love` and `cats` are connected, and the number of times `love` and `I` are connected. Therefore, we used a specific process which is  **‘textrank’**  to calculate the importance and degree of connection for each word using the number of times. The word which appears the most will be the most important and the two words will be more connected if the frequency of occurrence of two specific words together is high. When managing words, the frequency of their appearance is important. Therefore, the more it appears, the larger the node size, and vice versa. Also, the 100 words selected in the graph were also selected from 100 words with high importance according to their frequency of apperance.
 
-## What about the colour of nodes?
+## What does the color and position of the node mean?
 
- Now we have found a word which is used for nodes, a line for connecting each node, and the size of the nodes. We have drawn enough graphs with these materials, but they are not enough as visual. So, we decided to add  **'colour'**  to make the graph more readable.
- In this project, words are divided into groups (communities) by determining which words are more closely related with others. After this, we assign a colour to each community and assign a specific colour to the node. At this point, the colour tells us which community the word belongs to. The community classification process used the  **‘louvain’**  algorithm.
+Now we have found a word which is used for nodes, a line for connecting each node, and the size of the nodes. We drew enough graphs with these materials, but we wanted more effective and useful visual information. So we decided to add **colour** to make the graph more understandable. At this point, the colour tells which community the word belongs to. In this project, we used **Louvain algorithms** to print out which word were more 'close' to other word and as a result we divided the words into several communities. In addition, the classification by this community placed each word closer to the center of the mindmap, which corresponds to the important word in the text book. For this work, we used the textrank score.
 
 ## The information that when you click a node
 
@@ -45,10 +44,9 @@ But cats mostly don't like me.
 그렇다면 궁극적으로는 모든 단어가 연결되는 것일까요? 네 맞습니다. 하지만 단어 `love`와 `cat` 이 연결되는 횟수와 `love`와 `I`가 연결되는 횟수는 다를 것입니다. 우리는 이 횟수를 가지고  **‘textrank’**  라는 기법을 사용해 각 단어의 중요도와, 연결 정도를 계산 했습니다. 계산에 따르면 가장 많이 출현된 단어가 가장 중요할 것이고, 특정 두 단어가 함께 출현한 빈도가 높다면 두 단어는 연결되었다고 할 것입니다.
 단어를 다룰 때 출현 빈도가 중요하기 때문에, 더 많이 출현할 수록 노드의 사이즈는 클 것이고, 더 적게 출현할 수록 노드의 사이즈는 작아집니다. 또한, 그래프에 선정된 100개의 단어 역시 출현 빈도에 따른 중요도가 높은 100개의 단어를 추린 것입니다.
 
-## 노드의 색은 어떤 의미를 가지고 있는가?
+## 노드의 색과 위치는 어떤 의미를 가지고 있는가?
 
-우리는 이제 노드로 쓸 단어, 노드 사이를 연결하는 선, 그리고 노드의 크기를 찾아냈습니다. 이 재료들로는 그래프를 충분히 그리지만, 시각적으로 불충분 할 수 있다고 생각했습니다. 그래서 시각적 가독성을 높이기 위해 노드에  **색깔** 을 추가해 이해도를 좀 더 높히고자 하였습니다.
-이때 색은 단어가 어떤 커뮤니티에 속하는지를 알려줍니다. 이 프로젝트에서는 각 단어가 어떤 단어와 더 '근접'한지를 확인하는 과정을 통해 단어들을 몇 개의 그룹(커뮤니티)으로 나뉩니다. 그리고 커뮤니티마다 특정한 색을 부여해 노드에 색을 입히게 됩니다. 이 커뮤니티 분류 과정은  **louvain 알고리즘** 을 사용했습니다.
+우리는 이제 노드로 쓸 단어, 노드 사이를 연결하는 선, 그리고 노드의 크기를 찾아냈습니다. 이 재료들로 그래프를 충분히 그릴 수 있지만, 우리는 보다 효과적이고 유용한 시각적 정보를 담고자 했습니다. 그래서 노드에  **색깔** 을 추가해 이해도를 좀 더 높히고자 하였습니다. 이때 색은 단어가 어떤 커뮤니티에 속하는지를 알려줍니다. 이 프로젝트에서는 **Louvain알고리즘**을 사용해  각 단어가 어떤 단어와 더 '근접'한지 출력하여 단어들을 몇 개의 그룹(커뮤니티)으로 나누었습니다. 또한 이 커뮤니티에 의한 분류를 통해 각 단어들이 마인드맵 중심과 가까울 수록 책에 중요한 단어에 해당하게 배치했습니다. 이를 구현 할 때 커뮤니티별 textrank점수를 사용해 높은 점수를 받을 수록 중심과 가까운 곳에 배치되도록 만들었습니다.
 
 ## 노드를 클릭 했을 때 얻게 되는 정보
 
