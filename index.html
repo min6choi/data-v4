@@ -15,12 +15,13 @@
 <nav>
   <label class="title">A Data visualisation<br/>for understanding and knowledge</label>
   <label class="subtitle">_The Ethics of Information</label>
+  <label class="developer">A project by Darae Jang, Minsik Choi</label>
  </nav>
 
  <div class="scroll-down-arrow">
   ↓
 </div>
-<hr style="border: solid 1px #232323;">
+
  
  <svg></svg> <!--d3 그래프가 그려질 곳-->
 
@@ -39,9 +40,8 @@
     <div class ="eng-content2">&nbsp;&nbsp;So, are all the words connected with each other eventually? Yes, right. However, it may be different because of the number of times ‘love’ and ‘cats’ are connected, and the number of times ‘love’ and ‘I’ are connected. Therefore, we used a specific process which is ‘textrank’ to calculate the importance and degree of connection for each word using the number of times. The word which appears the most will be the most important and the two words will be more connected if the frequency of occurrence of two specific words together is high. When managing words, the frequency of their appearance is important. Therefore, the more it appears, the larger the node size, and vice versa. Also, the 100 words selected in the graph were also selected from 100 words with high importance according to their frequency of appearance.
     <br/><br/></div>
 
-    <div class="eng-3"><strong>3. What about the colour of nodes?</strong><br/></div>
-    <div class ="eng-content3">&nbsp;&nbsp;Now we have found a word which is used for nodes, a line for connecting each node, and the size of the nodes. We have drawn enough graphs with these materials, but they are not enough as visual. So, we decided to add ' colour ' to make the graph more readable. 
-    In this project, words are divided into groups (communities) by determining which words are more closely related with others. After this, we assign a colour to each community and assign a specific colour to the node. At this point, the colour tells us which community the word belongs to. The community classification process used the ‘louvain’ algorithm.
+    <div class="eng-3"><strong>3. What does the color and position of the node mean?</strong><br/></div>
+    <div class ="eng-content3">&nbsp;&nbsp;Now we have found a word which is used for nodes, a line for connecting each node, and the size of the nodes. We drew enough graphs with these materials, but we wanted more effective and useful visual information. So we decided to add **colour** to make the graph more understandable. At this point, the colour tells which community the word belongs to. In this project, we used **Louvain algorithms** to print out which word were more 'close' to other word and as a result we divided the words into several communities. In addition, the classification by this community placed each word closer to the center of the mindmap, which corresponds to the important word in the text book. For this work, we used the textrank score.
     <br/><br/></div>
 
     <div class="eng-4"><strong>4. When you click a node...</strong><br/></div>
@@ -50,7 +50,9 @@
    </div>
  </div>
 
- <div class="reference">reference</div>
+ <footer>
+  <img class="footer__image logo-pillowsophy" src="/png/logo.png" alt="pillowsophy logo">
+ </footer>
 
  <!-- modal -->
  <div id="myModal" class="background">
@@ -61,8 +63,5 @@
       </div>
       <div class="modal-body" id = "body-text"></div>
   </div>
-  <footer>
-    
-  </footer>
 </div>
 </body>
