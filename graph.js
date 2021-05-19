@@ -57,8 +57,9 @@ function update(){
     
     var name = node.append("text")
         .text(d=>d.data.name)
-        .style("font-size", "1em")
-        .attr("fill", "#3b3f3e");
+        .style("font-size", "1.2em")
+        .attr("fill", "#3b3f3e")
+        .style("cursor", "pointer");
     
     simulation.on("tick", () => {
       link
